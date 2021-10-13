@@ -1,0 +1,7 @@
+start = body
+body = element body {\div+}
+\div = element \div {title, (p | author | \text)+}
+title = element title {text}
+p = element p {text}
+author = element author {text}
+\text = element \text {p+}
