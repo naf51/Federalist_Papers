@@ -1,5 +1,6 @@
+<?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <federalist_papers>
-  <div>
+  <paper>
     <title>FEDERALIST No. 1</title>
     <p>General Introduction</p>
     <p>For the Independent Journal.</p>
@@ -118,8 +119,8 @@
       <p>1 The same idea, tracing the arguments to their consequences, is held out in several of the
         late publications against the new Constitution.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 2</title>
     <p>Concerning Dangers from Foreign Force and Influence</p>
     <p>For the Independent Journal.</p>
@@ -248,8 +249,8 @@
         words of the poet: "FAREWELL! A LONG FAREWELL TO ALL MY GREATNESS."</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 3</title>
     <p>The Same Subject Continued (Concerning Dangers From Foreign Force and Influence)</p>
     <p>For the Independent Journal.</p>
@@ -362,8 +363,8 @@
         received the like humiliation from Spain, or Britain, or any other POWERFUL nation?</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 4</title>
     <p>The Same Subject Continued (Concerning Dangers From Foreign Force and Influence)</p>
     <p>For the Independent Journal.</p>
@@ -488,8 +489,8 @@
         a people or family so divide, it never fails to be against themselves.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 5</title>
     <p>The Same Subject Continued (Concerning Dangers From Foreign Force and Influence)</p>
     <p>For the Independent Journal.</p>
@@ -596,8 +597,8 @@
         interference of foreign nations.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 6</title>
     <p>Concerning Dangers from Dissensions Between the States</p>
     <p>For the Independent Journal.</p>
@@ -762,8 +763,8 @@
       <p>10 The Duke of Marlborough.</p>
       <p>11 Vide "Principes des Negociations" par l'Abbe de Mably.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST. No. 7</title>
     <p>The Same Subject Continued (Concerning Dangers from Dissensions Between the States)</p>
     <p>For the Independent Journal.</p>
@@ -933,8 +934,8 @@
         the public, it is proposed to publish them four times a week--on Tuesday in the New York
         Packet and on Thursday in the Daily Advertiser.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 8</title>
     <p>The Consequences of Hostilities Between the States</p>
     <p>From the New York Packet.</p>
@@ -1089,8 +1090,8 @@
         much better one than is to be found in any constitution that has been heretofore framed in
         America, most of which contain no guard at all on this subject.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 9</title>
     <p>The Union as a Safeguard Against Domestic Faction and Insurrection</p>
     <p>For the Independent Journal.</p>
@@ -1240,8 +1241,8 @@
       <p>PUBLIUS.</p>
       <p>1 "Spirit of Lawa," vol. i., book ix., chap. i.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 10</title>
     <p>The Same Subject Continued (The Union as a Safeguard Against Domestic Faction and
       Insurrection)</p>
@@ -1461,8 +1462,8 @@
         spirit and supporting the character of Federalists.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 11</title>
     <p>The Utility of the Union in Respect to Commercial Relations and a Navy</p>
     <p>For the Independent Journal.</p>
@@ -1643,8 +1644,8 @@
         able to dictate the terms of the connection between the old and the new world!</p>
       <p>PUBLIUS. "Recherches philosophiques sur les Americains."</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 12</title>
     <p>The Utility of the Union In Respect to Revenue</p>
     <p>From the New York Packet.</p>
@@ -1804,8 +1805,8 @@
       <p>PUBLIUS.</p>
       <p>1 If my memory be right they amount to twenty per cent.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 13</title>
     <p>Advantage of the Union in Respect to Economy in Government</p>
     <p>For the Independent Journal.</p>
@@ -1879,8 +1880,8 @@
         revenue, and liberty of every part.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 14</title>
     <p>Objections to the Proposed Constitution From Extent of Territory Answered</p>
     <p>From the New York Packet.</p>
@@ -2036,8 +2037,8 @@
         your convention, and it is that act on which you are now to deliberate and to decide.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 15</title>
     <p>The Insufficiency of the Present Confederation to Preserve the Union</p>
     <p>For the Independent Journal.</p>
@@ -2258,8 +2259,8 @@
       <p>PUBLIUS.</p>
       <p>1 "I mean for the Union."</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 16</title>
     <p>The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the
       Union)</p>
@@ -2410,8 +2411,8 @@
         it would be idle to object to a government because it could not perform impossibilities.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 17</title>
     <p>The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the
       Union)</p>
@@ -2535,8 +2536,8 @@
         shall form the subject of some ensuing papers.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 18</title>
     <p>The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the
       Union)</p>
@@ -2700,8 +2701,8 @@
       <p>1 This was but another name more specious for the independence of the members on the
         federal head.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 19</title>
     <p>The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the
       Union)</p>
@@ -2862,8 +2863,8 @@
       <p>1 Pfeffel, "Nouvel Abreg. Chronol. de l'Hist., etc., d'Allemagne," says the pretext was to
         indemnify himself for the expense of the expedition.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 20</title>
     <p>The Same Subject Continued (The Insufficiency of the Present Confederation to Preserve the
       Union)</p>
@@ -2992,8 +2993,8 @@
         the mild and salutary COERCION of the MAGISTRACY.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 21</title>
     <p>Other Defects of the Present Confederation</p>
     <p>For the Independent Journal.</p>
@@ -3139,8 +3140,8 @@
         attended with fewer inconveniences than to leave that discretion altogether at large.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 22</title>
     <p>The Same Subject Continued (Other Defects of the Present Confederation)</p>
     <p>From the New York Packet.</p>
@@ -3396,8 +3397,8 @@
       <p>4 Add New York and Connecticut to the foregoing seven, and they will be less than a
         majority.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 23</title>
     <p>The Necessity of a Government as Energetic as the One Proposed to the Preservation of the
       Union</p>
@@ -3533,8 +3534,8 @@
         entire limits of the present Confederacy.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 24</title>
     <p>The Powers Necessary to the Common Defense Further Considered</p>
     <p>For the Independent Journal.</p>
@@ -3683,8 +3684,8 @@
         two States have bills of rights which do not appear in this collection; but that those also
         recognize the right of the legislative authority in this respect.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 25</title>
     <p>The Same Subject Continued (The Powers Necessary to the Common Defense Further
       Considered)</p>
@@ -3829,8 +3830,8 @@
         the same plea of necessity does not exist at all, or is less urgent and palpable.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 26</title>
     <p>The Idea of Restraining the Legislative Authority in Regard to the Common Defense
       Considered</p>
@@ -4002,8 +4003,8 @@
         supposition would become not only probable, but almost unavoidable.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 27</title>
     <p>The Same Subject Continued (The Idea of Restraining the Legislative Authority in Regard to
       the Common Defense Considered)</p>
@@ -4113,8 +4114,8 @@
       <p>1 The sophistry which has been employed to show that this will tend to the destruction of
         the State governments, will, in its will, in its proper place, be fully detected.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 28</title>
     <p>The Same Subject Continued (The Idea of Restraining the Legislative Authority in Regard to
       the Common Defense Considered)</p>
@@ -4238,8 +4239,8 @@
       <p>PUBLIUS.</p>
       <p>1 Its full efficacy will be examined hereafter.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 29</title>
     <p>Concerning the Militia</p>
     <p>From the Daily Advertiser.</p>
@@ -4397,8 +4398,8 @@
         incitements of selfpreservation to the too feeble impulses of duty and sympathy.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 30</title>
     <p>Concerning the General Power of Taxation</p>
     <p>From the New York Packet.</p>
@@ -4543,8 +4544,8 @@
         evils which ambition or revenge might, with too much facility, inflict upon it.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 31</title>
     <p>The Same Subject Continued (Concerning the General Power of Taxation)</p>
     <p>From the New York Packet.</p>
@@ -4672,8 +4673,8 @@
         have been made to an indefinite power of taxation in the United States.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 32</title>
     <p>The Same Subject Continued (Concerning the General Power of Taxation)</p>
     <p>From the Daily Advertiser.</p>
@@ -4784,8 +4785,8 @@
         refutes every hypothesis to the contrary.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 33</title>
     <p>The Same Subject Continued (Concerning the General Power of Taxation)</p>
     <p>From the Daily Advertiser.</p>
@@ -4908,8 +4909,8 @@
         the State authority to that of the Union.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 34</title>
     <p>The Same Subject Continued (Concerning the General Power of Taxation)</p>
     <p>From the New York Packet.</p>
@@ -5068,8 +5069,8 @@
         consideration.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 35</title>
     <p>The Same Subject Continued (Concerning the General Power of Taxation)</p>
     <p>For the Independent Journal.</p>
@@ -5234,8 +5235,8 @@
         where the requisite qualification is most likely to be found.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 36</title>
     <p>The Same Subject Continued (Concerning the General Power of Taxation)</p>
     <p>From the New York Packet.</p>
@@ -5431,8 +5432,8 @@
       <p>PUBLIUS.</p>
       <p>1 The New England States.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 37</title>
     <p>Concerning the Difficulties of the Convention in Devising a Proper Form of Government</p>
     <p>From the Daily Advertiser.</p>
@@ -5635,8 +5636,8 @@
         sacrificing private opinions and partial interests to the public good, and by a despair of
         seeing this necessity diminished by delays or by new experiments.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 38</title>
     <p>The Same Subject Continued, and the Incoherence of the Objections to the New Plan Exposed</p>
     <p>From the New York Packet.</p>
@@ -5869,8 +5870,8 @@
         usurpation is the dreadful dilemma to which it is continually exposed.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 39</title>
     <p>The Conformity of the Plan to Republican Principles</p>
     <p>For the Independent Journal.</p>
@@ -6058,8 +6059,8 @@
         of introducing amendments, it is neither wholly federal nor wholly national.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 40</title>
     <p>The Powers of the Convention to Form a Mixed Government Examined</p>
     <p>and Sustained</p>
@@ -6283,8 +6284,8 @@
         to the Constitution, is the subject under investigation.</p>
       <p>PUBLIUS. Connecticut and Rhode Island. Declaration of Independence.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 41</title>
     <p>General View of the Powers Conferred by The Constitution</p>
     <p>For the Independent Journal.</p>
@@ -6544,8 +6545,8 @@
         employed the same reasoning in justification of Congress as they now make use of against the
         convention. How difficult it is for error to escape its own condemnation! PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 42</title>
     <p>The Powers Conferred by the Constitution Further Considered</p>
     <p>From the New York Packet. Tuesday, January 22, 1788.</p>
@@ -6749,8 +6750,8 @@
         facilitate the intercourse between the States can be deemed unworthy of the public care.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 43</title>
     <p>The Same Subject Continued (The Powers Conferred by the</p>
     <p>Constitution Further Considered)</p>
@@ -6997,8 +6998,8 @@
         and PRUDENCE on the other.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 44</title>
     <p>Restrictions on the Authority of the Several States</p>
     <p>From the New York Packet. Friday, January 25, 1788.</p>
@@ -7210,8 +7211,8 @@
         shall be preserved.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 45</title>
     <p>The Alleged Danger From the Powers of the Union to the State</p>
     <p>Governments Considered</p>
@@ -7367,8 +7368,8 @@
         purposes of the Union.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 46</title>
     <p>The Influence of the State and Federal Governments Compared</p>
     <p>From the New York Packet. Tuesday, January 29, 1788.</p>
@@ -7558,8 +7559,8 @@
         of the authors of them.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 47</title>
     <p>The Particular Structure of the New Government and the</p>
     <p>Distribution of Power Among Its Different Parts</p>
@@ -7762,8 +7763,8 @@
         interesting subject will be resumed in the ensuing paper.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 48</title>
     <p>These Departments Should Not Be So Far Separated as to Have No</p>
     <p>Constitutional Control Over Each Other</p>
@@ -7904,8 +7905,8 @@
         the powers of government in the same hands.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 49</title>
     <p>Method of Guarding Against the Encroachments of Any One</p>
     <p>Department of Government by Appealing to the People Through a</p>
@@ -8031,8 +8032,8 @@
         and precision.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 50</title>
     <p>Periodical Appeals to the People Considered</p>
     <p>From the New York Packet. Tuesday, February 5, 1788.</p>
@@ -8119,8 +8120,8 @@
         the parties connected with these measures, and have been elected under their auspices.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 51</title>
     <p>The Structure of the Government Must Furnish the Proper Checks</p>
     <p>and Balances Between the Different Departments</p>
@@ -8263,8 +8264,8 @@
         modification and mixture of the FEDERAL PRINCIPLE.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 52</title>
     <p>The House of Representatives</p>
     <p>From the New York Packet. Friday, February 8, 1788.</p>
@@ -8398,8 +8399,8 @@
         the other.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 53</title>
     <p>The Same Subject Continued (The House of Representatives)</p>
     <p>From the New York Packet. Tuesday, February 12, 1788.</p>
@@ -8556,8 +8557,8 @@
         safe to the liberty of the people.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 54</title>
     <p>The Apportionment of Members Among the States</p>
     <p>From the New York Packet. Tuesday, February 12, 1788.</p>
@@ -8702,8 +8703,8 @@
         control and balance each other, and produce the requisite impartiality.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 55</title>
     <p>The Total Number of the House of Representatives</p>
     <p>From the New York Packet. Friday, February 15, 1788.</p>
@@ -8851,8 +8852,8 @@
         devouring one another.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 56</title>
     <p>The Same Subject Continued (The Total Number of the House of</p>
     <p>Representatives)</p>
@@ -8971,8 +8972,8 @@
       <p>PUBLIUS.</p>
       <p>Burgh's "Political Disquisitions. "</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 57</title>
     <p>The Alleged Tendency of the New Plan to Elevate the Few at the</p>
     <p>Expense of the Many Considered in Connection with Representation</p>
@@ -9131,8 +9132,8 @@
         liberty.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 58</title>
     <p>Objection That The Number of Members Will Not Be Augmented as the</p>
     <p>Progress of Population Demands Considered</p>
@@ -9289,8 +9290,8 @@
         displayed among us.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 59</title>
     <p>Concerning the Power of Congress to Regulate the Election of</p>
     <p>Members</p>
@@ -9431,8 +9432,8 @@
       <p>PUBLIUS.</p>
       <p>1 Ist clause, 4th section, of the Ist article.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 60</title>
     <p>The Same Subject Continued (Concerning the Power of Congress to Regulate the Election of
       Members)</p>
@@ -9597,8 +9598,8 @@
       <p>PUBLIUS.</p>
       <p>1 Particularly in the Southern States and in this State.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 61</title>
     <p>The Same Subject Continued (Concerning the Power of Congress to Regulate the Election of
       Members)</p>
@@ -9710,8 +9711,8 @@
         government at the same epochs.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 62</title>
     <p>The Senate</p>
     <p>For the Independent Journal.</p>
@@ -9886,8 +9887,8 @@
         respectable, without possessing a certain portion of order and stability.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST. No. 63</title>
     <p>The Senate Continued</p>
     <p>For the Independent Journal.</p>
@@ -10112,8 +10113,8 @@
         of the entire body of the people themselves.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 64</title>
     <p>The Powers of the Senate</p>
     <p>From the New York Packet.</p>
@@ -10280,8 +10281,8 @@
         amply afforded by the article on the subject of impeachments.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 65</title>
     <p>The Powers of the Senate Continued</p>
     <p>From the New York Packet.</p>
@@ -10427,8 +10428,8 @@
         whole is bad and pernicious.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 66</title>
     <p>Objections to the Power of the Senate To Set as a Court for Impeachments Further
       Considered</p>
@@ -10594,8 +10595,8 @@
         legislature. In New Hampshire, Massachusetts, Pennsylvanis, and South Carolina, one branch
         of the legislature is the court for the trial of impeachments.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 67</title>
     <p>The Executive Department</p>
     <p>From the New York Packet.</p>
@@ -10723,8 +10724,8 @@
       <p>1 See CATO, No. V.</p>
       <p>2 Article I, section 3, clause I.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 68</title>
     <p>The Mode of Electing the President</p>
     <p>From the New York Packet.</p>
@@ -10837,8 +10838,8 @@
       <p>PUBLIUS.</p>
       <p>1 Vide FEDERAL FARMER.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 69</title>
     <p>The Real Character of the Executive</p>
     <p>From the New York Packet.</p>
@@ -11049,8 +11050,8 @@
         through all their consequences, we shall be inclined to draw much the same conclusion.
         *There are two slightly different versions of No. 70 included here.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 70</title>
     <p>The Executive Department Further Considered</p>
     <p>From the New York Packet.</p>
@@ -11280,8 +11281,8 @@
       <p>2 De Lolme.</p>
       <p>3 Ten.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 71</title>
     <p>The Duration in Office of the Executive</p>
     <p>From the New York Packet.</p>
@@ -11409,8 +11410,8 @@
         Commons, and rejected in the House of Lords, to the entire satisfaction, as it is said, of
         the people.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 72</title>
     <p>The Same Subject Continued, and Re-Eligibility of the Executive Considered</p>
     <p>From the New York Packet.</p>
@@ -11563,8 +11564,8 @@
         disadvantages far more certain and decisive.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 73</title>
     <p>The Provision For The Support of the Executive, and the Veto Power</p>
     <p>From the New York Packet.</p>
@@ -11735,8 +11736,8 @@
       <p>PUBLIUS.</p>
       <p>1 Mr. Abraham Yates, a warm opponent of the plan of the convention is of this number.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 74</title>
     <p>The Command of the Military and Naval Forces, and the Pardoning Power of the Executive</p>
     <p>From the New York Packet.</p>
@@ -11811,8 +11812,8 @@
         timidity or of weakness, and would have a tendency to embolden guilt.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 75</title>
     <p>The Treaty-Making Power of the Executive</p>
     <p>For the Independent Journal.</p>
@@ -11952,8 +11953,8 @@
         become, would be very little fit for the proper discharge of the trust.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 76</title>
     <p>The Appointing Power of the Executive</p>
     <p>From the New York Packet.</p>
@@ -12117,8 +12118,8 @@
         during his continuance in office."</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 77</title>
     <p>The Appointing Power Continued and Other Powers of the Executive Considered</p>
     <p>From the New York Packet.</p>
@@ -12262,8 +12263,8 @@
         and reasonable people?</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 78</title>
     <p>The Judiciary Department</p>
     <p>From McLEAN'S Edition, New York.</p>
@@ -12490,8 +12491,8 @@
       <p>3 Vide "Protest of the Minority of the Convention of Pennsylvania," Martin's Speech,
         etc.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 79</title>
     <p>The Judiciary Continued</p>
     <p>From MCLEAN's Edition, New York.</p>
@@ -12569,8 +12570,8 @@
       <p>PUBLIUS.</p>
       <p>1 Vide "Constitution of Massachusetts," chapter 2, section I, article 13.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 80</title>
     <p>The Powers of the Judiciary</p>
     <p>From McLEAN's Edition, New York.</p>
@@ -12754,8 +12755,8 @@
         advantages.</p>
       <p>PUBLIUS.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST. No. 81</title>
     <p>The Judiciary Continued, and the Distribution of the Judicial Authority</p>
     <p>From McLEAN's Edition, New York.</p>
@@ -13034,8 +13035,8 @@
         judicatories, in many cases of federal cognizance, as will be explained in my next
         paper.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 82</title>
     <p>The Judiciary Continued</p>
     <p>From McLEAN's Edition, New York.</p>
@@ -13150,8 +13151,8 @@
       <p>1 No. 31.</p>
       <p>2 Sec. 8th art. 1st.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 83</title>
     <p>The Judiciary Continued in Relation to Trial by Jury</p>
     <p>From MCLEAN's Edition, New York.</p>
@@ -13560,8 +13561,8 @@
         jurisdiction in matters of fact being vested in the Supreme Court, is examined and
         refuted.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 84</title>
     <p>Certain General and Miscellaneous Objections to the Constitution Considered and Answered</p>
     <p>From McLEAN's Edition, New York.</p>
@@ -13854,8 +13855,8 @@
         declare that government ought to be free, that taxes ought not to be excessive, etc., as
         that the liberty of the press ought not to be restrained.</p>
     </body>
-  </div>
-  <div>
+  </paper>
+  <paper>
     <title>FEDERALIST No. 85</title>
     <p>Concluding Remarks</p>
     <p>From MCLEAN's Edition, New York.</p>
@@ -14050,5 +14051,5 @@
         fourths must ratify.</p>
       <p>3 Hume's "Essays," vol. i., page 128: "The Rise of Arts and Sciences."</p>
     </body>
-  </div>
+  </paper>
 </federalist_papers>
