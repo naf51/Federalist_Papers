@@ -4,12 +4,12 @@ Hamilton wrote and contributed to 59 papers in total, some of which were co-writ
 
 Hamilton in paper No. 1 gives an outline for the rest of the papers, dividing them into 6 (unequal) sections. They are:
 
-1.) "The utility of the UNION to your political prosperity" — covered in No. 2 through No. 14
-2.) "The insufficiency of the present Confederation to preserve that Union" — covered in No. 15 through No. 22
-3.) "The necessity of a government at least equally energetic with the one proposed to the attainment of this object" — covered in No. 23 through No. 36
-4.) "The conformity of the proposed constitution to the true principles of republican government" — covered in No. 37 through No. 84
-5.) "Its analogy to your own state constitution" — covered in No. 85
-6.) "The additional security which its adoption will afford to the preservation of that species of government, to liberty and to prosperity" — covered in No. 85.
+1. "The utility of the UNION to your political prosperity" — covered in No. 2 through No. 14
+2. "The insufficiency of the present Confederation to preserve that Union" — covered in No. 15 through No. 22
+3. "The necessity of a government at least equally energetic with the one proposed to the attainment of this object" — covered in No. 23 through No. 36
+4. "The conformity of the proposed constitution to the true principles of republican government" — covered in No. 37 through No. 84
+5. "Its analogy to your own state constitution" — covered in No. 85
+6. "The additional security which its adoption will afford to the preservation of that species of government, to liberty and to prosperity" — covered in No. 85.
 
 ### Element Tagging
 
