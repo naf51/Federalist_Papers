@@ -1,7 +1,7 @@
-start = body
-body = element body {\div+}
-\div = element \div {title, (p | author | \text)+}
+start = federalist_papers
+federalist_papers = element federalist_papers {paper+}
+paper = element paper {title, (p | author | body)+}
 title = element title {text}
 p = element p {text}
 author = element author {text}
-\text = element \text {p+}
+body = element body {p+}
