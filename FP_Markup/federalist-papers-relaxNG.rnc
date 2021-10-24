@@ -1,12 +1,13 @@
 start = federalist_papers
 federalist_papers = element federalist_papers {paper+}
 paper = element paper {head, body}
-head = element head {(title | subtitle | source | author)*}
+head = element head {(title | subtitle | source | author | date)*}
 subtitle = element subtitle {text}
 source = element source {text}
 title = element title {text}
 p = element p {mixed {(taxation | executive | federalism | judicial | military | trade | foreignPolicy | significantPhrase)*}}
 author = element author {text}
+date = element date {text}
 body = element body {(p | address)*, closing}
 address = element address {text}
 closing = element closing {text}
