@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div>
+<?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
+<federalist_papers>
+    <paper>
+    <head>
     <title>FEDERALIST No. 73</title>
-    <p>The Provision For The Support of the Executive, and the Veto Power</p>
-    <p>From the New York Packet.</p>
-    <p>Friday, March 21, 1788.</p>
+    <subtitle>The Provision For The Support of the Executive, and the Veto Power</subtitle>
+    <source>From the New York Packet.</source>
+    <date>Friday, March 21, 1788.</date>
     <author>HAMILTON</author>
+    </head>
     <body>
         <p>To the People of the State of New York:</p>
         <p>THE third ingredient towards constituting the vigor of the executive authority, is an
@@ -167,7 +171,7 @@
             judges too distinct from every other avocation than that of expounding the laws. <executive type="populist">It is
                 peculiarly dangerous to place them in a situation to be either corrupted or influenced by
                 the Executive.</executive></p>
-        <p>PUBLIUS.</p>
-        <p>1 Mr. Abraham Yates, a warm opponent of the plan of the convention is of this number.</p>
+        <closing>PUBLIUS.</closing>
     </body>
-</div>
+    </paper>
+</federalist_papers>
