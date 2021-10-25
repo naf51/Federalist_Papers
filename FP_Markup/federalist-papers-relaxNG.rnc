@@ -2,7 +2,6 @@ start = federalist_papers
 federalist_papers = element federalist_papers {paper+}
 paper = element paper {head, body}
 head = element head {(title | subtitle | source | author | date)*}
-<<<<<<< HEAD
 date = element date {text}
 subtitle = element subtitle {text}
 source = element source {text}
@@ -26,24 +25,3 @@ legislature = element legislative {markup}
 foreignPolicy = element foreignPolicy {markup}
 significantPhrase = element significantPhrase {markup}
 type = attribute type {("elitist" | "populist" | "neither" | "both")}
-=======
-subtitle = element subtitle {text}
-source = element source {text}
-title = element title {text}
-p = element p {mixed {(taxation | executive | federalism | judicial | military | trade | foreignPolicy | significantPhrase | legislature)*}}
-author = element author {text}
-date = element date {text}
-body = element body {(p | address)*, closing}
-address = element address {text}
-closing = element closing {text}
-taxation = element taxation {type, text}
-executive = element executive {type, text}
-legislature = element legislature {text}
-federalism = element federalism {type, text}
-judicial = element judicial {type, text}
-military = element military {type, text}
-trade = element trade {type, text}
-foreignPolicy = element foreignPolicy {type, text}
-significantPhrase = element significantPhrase {type, text}
-type = attribute type {text}
->>>>>>> fb334833b287adf384ed70fe85160b7a5e21d0d4
