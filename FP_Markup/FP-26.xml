@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="FP_Markup/federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <federalist_papers>
     <paper>
         <head>
@@ -11,17 +11,17 @@
         </head>
         <body>
             <p>To the People of the State of New York:</p>
-            <p><legislative type="populist">IT WAS a thing hardly to be expected that in a popular revolution the minds of men should
+            <p><legislature type="populist">IT WAS a thing hardly to be expected that in a popular revolution the minds of men should
                 stop at that happy mean which marks the salutary boundary between POWER and PRIVILEGE, and
-                combines the energy of government with the security of private rights.</legislative> A failure in this
+                combines the energy of government with the security of private rights.</legislature> A failure in this
                 delicate and important point is the great source of the inconveniences we experience, and if
                 we are not cautious to avoid a repetition of the error, in our future attempts to rectify
                 and ameliorate our system, we may travel from one chimerical project to another; we may try
                 change after change; but we shall never be likely to make any material change for the
                 better.</p>
-            <p><legislative type="populist">The idea of restraining the legislative authority, in the means of providing for the
+            <p><legislature type="populist">The idea of restraining the legislative authority, in the means of providing for the
                 national defense, is one of those refinements which owe their origin to a zeal for liberty
-                more ardent than enlightened.</legislative> We have seen, however, that it has not had thus far an
+                more ardent than enlightened.</legislature> We have seen, however, that it has not had thus far an
                 extensive prevalency; that even in this country, where it made its first appearance,
                 Pennsylvania and North Carolina are the only two States by which it has been in any degree
                 patronized; and that all the others have refused to give it the least countenance; wisely
