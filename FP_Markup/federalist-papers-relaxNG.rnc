@@ -6,7 +6,11 @@ date = element date {text}
 subtitle = element subtitle {text}
 source = element source {text}
 title = element title {text}
+<<<<<<< HEAD
 p = element p {mixed {(quote | taxation | executive | federalism  | judicial | military | trade | foreignPolicy | significantPhrase| legislative | historicalComparison | parenthesis)*}}
+=======
+p = element p {mixed {(quote | taxation | executive | federalism  | judicial | military | trade | foreignPolicy | significantPhrase| legislature | historicalComparison | parenthesis | liberty)*}}
+>>>>>>> 95eba6541bc13f43ba356081d3ab35a5d085cad5
 author = element author {text}
 body = element body {address*, p+, closing}
 markup = type, mixed{(quote |parenthesis)*}
@@ -16,12 +20,17 @@ quote = element quote {text}
 parenthesis = element parenthesis {text}
 historicalComparison = element historicalComparison {markup}
 taxation = element taxation {markup}
+liberty = element liberty {markup}
 executive = element executive {markup}
 federalism = element federalism {markup}
 judicial = element judicial {markup}
 military = element military {markup}
 trade = element trade {markup}
+<<<<<<< HEAD
 legislative = element legislative {markup}
+=======
+legislature = element legislature {markup}
+>>>>>>> 95eba6541bc13f43ba356081d3ab35a5d085cad5
 foreignPolicy = element foreignPolicy {markup}
 significantPhrase = element significantPhrase {markup}
 type = attribute type {("elitist" | "populist" | "neither" | "both")}
