@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="FP_Markup/federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <federalist_papers>
     <paper>
         <head>
@@ -9,7 +9,7 @@
             <date>Thursday, January 10, 1788</date>
             <author>HAMILTON</author></head>
         <body>
-            <p>To the People of the State of New York:</p>
+            <address>To the People of the State of New York:</address>
             <p><military type="neither">THE power of regulating the militia, and of commanding its services in times of
                 insurrection and invasion are natural incidents to the duties of superintending the common
                 defense, and of watching over the internal peace of the Confederacy.</military></p>
@@ -70,7 +70,7 @@
                 from viewing the matter in the same light with those who object to select corps as
                 dangerous, were the Constitution ratified, and were I to deliver my sentiments to a member
                 of the federal legislature from this State on the subject of a militia establishment, I
-                should hold to him, in substance, the following discourse: <quote>"The project of disciplining all
+                should hold to him, in substance, the following discourse: <quote>The project of disciplining all
                 the militia of the United States is as futile as it would be injurious, if it were capable
                 of being carried into execution. A tolerable expertness in military movements is a business
                 that requires time and practice. It is not a day, or even a week, that will suffice for the
@@ -99,7 +99,7 @@
                 there is a large body of citizens, little, if at all, inferior to them in discipline and the
                 use of arms, who stand ready to defend their own rights and those of their fellow-citizens.
                 This appears to me the only substitute that can be devised for a standing army, and the best
-                possible security against it, if it should exist."</quote></p>
+                possible security against it, if it should exist.</quote></p>
             <p>Thus differently from the adversaries of the proposed Constitution should I reason on the
                 same subject, deducing arguments of safety from the very sources which they represent as
                 fraught with danger and perdition. But how the national legislature may reason on the point,
