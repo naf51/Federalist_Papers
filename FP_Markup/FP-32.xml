@@ -2,13 +2,14 @@
 <?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <federalist_papers>
     <paper>
-        <title>FEDERALIST No. 32</title>
-        <p>The Same Subject Continued (Concerning the General Power of Taxation)</p>
-        <p>From the Daily Advertiser.</p>
-        <p>Thursday, January 3, 1788.</p>
-        <author>HAMILTON</author>
+        <head>
+            <title>FEDERALIST No. 32</title>
+            <subtitle>The Same Subject Continued (Concerning the General Power of Taxation)</subtitle>
+            <source>From the Daily Advertiser.</source>
+            <date>Thursday, January 3, 1788.</date>
+            <author>HAMILTON</author></head>
         <body>
-            <p>To the People of the State of New York:</p>
+            <address>To the People of the State of New York:</address>
             <p><taxation type = "populist">ALTHOUGH I am of opinion that there would be no real danger of the consequences which seem
                 to be apprehended to the State governments from a power in the Union to control them in the
                 levies of money, because I am persuaded that the sense of the people, the extreme hazard of
@@ -110,7 +111,7 @@
                 circumstance is a clear indication of the sense of the convention, and furnishes a rule of
                 interpretation out of the body of the act, which justifies the position I have advanced and
                 refutes every hypothesis to the contrary.</taxation></p>
-            <p>PUBLIUS.</p>
+            <closing>PUBLIUS.</closing>
         </body>
     </paper>
 </federalist_papers>
