@@ -2,13 +2,14 @@
 <?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <federalist_papers>
     <paper>
-        <title>FEDERALIST No. 31</title>
-        <p>The Same Subject Continued (Concerning the General Power of Taxation)</p>
-        <p>From the New York Packet.</p>
-        <p>Tuesday, January 1, 1788.</p>
-        <author>HAMILTON</author>
+        <head>
+            <title>FEDERALIST No. 31</title>
+            <subtitle>The Same Subject Continued (Concerning the General Power of Taxation)</subtitle>
+            <source>From the New York Packet.</source>
+            <date>Tuesday, January 1, 1788.</date>
+            <author>HAMILTON</author></head>
         <body>
-            <p>To the People of the State of New York:</p>
+            <address>To the People of the State of New York:</address>
             <p><taxation type = "neither">IN DISQUISITIONS of every kind, there are certain primary truths, or first principles, upon
                 which all subsequent reasonings must depend. These contain an internal evidence which,
                 antecedent to all reflection or combination, commands the assent of the mind. Where it
@@ -127,7 +128,7 @@
                 constitutional equilibrium between the general and the State governments. Upon this ground,
                 which is evidently the true one, it will not be difficult to obviate the objections which
                 have been made to an indefinite power of taxation in the United States.</taxation></p>
-            <p>PUBLIUS.</p>
+            <closing>PUBLIUS.</closing>
         </body>
     </paper>
 </federalist_papers>
