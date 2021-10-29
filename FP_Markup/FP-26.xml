@@ -10,7 +10,7 @@
             <author>HAMILTON</author>
         </head>
         <body>
-            <p>To the People of the State of New York:</p>
+            <address>To the People of the State of New York:</address>
             <p><legislature type="populist">IT WAS a thing hardly to be expected that in a popular revolution the minds of men should
                 stop at that happy mean which marks the salutary boundary between POWER and PRIVILEGE, and
                 combines the energy of government with the security of private rights.</legislature> A failure in this
@@ -26,22 +26,22 @@
                 Pennsylvania and North Carolina are the only two States by which it has been in any degree
                 patronized; and that all the others have refused to give it the least countenance; wisely
                 judging that confidence must be placed somewhere; that the necessity of doing it, is implied
-                in the very act of delegating power; and that <legislative type="elitist">it is better to hazard the abuse of that
+                in the very act of delegating power; and that <legislature type="elitist">it is better to hazard the abuse of that
                 confidence than to embarrass the government and endanger the public safety by impolitic
-                restrictions on the legislative authority.</legislative> The opponents of the proposed Constitution
+                restrictions on the legislative authority.</legislature> The opponents of the proposed Constitution
                 combat, in this respect, the general decision of America; and instead of being taught by
                 experience the propriety of correcting any extremes into which we may have heretofore run,
                 they appear disposed to conduct us into others still more dangerous, and more extravagant.
                 As if the tone of government had been found too high, or too rigid, the doctrines they teach
                 are calculated to induce us to depress or to relax it, by expedients which, upon other
-                occasions, have been condemned or forborne. <legislative type="populist">It may be affirmed without the imputation of
+                occasions, have been condemned or forborne. <legislature type="populist">It may be affirmed without the imputation of
                 invective, that if the principles they inculcate, on various points, could so far obtain as
                 to become the popular creed, they would utterly unfit the people of this country for any
-                species of government whatever.</legislative> But a danger of this kind is not to be apprehended. <legislative type = "populist">The
+                species of government whatever.</legislature> But a danger of this kind is not to be apprehended. <legislature type = "populist">The
                 citizens of America have too much discernment to be argued into anarchy. And I am much
                 mistaken, if experience has not wrought a deep and solemn conviction in the public mind,
                 that greater energy of government is essential to the welfare and prosperity of the
-                community.</legislative></p>
+                community.</legislature></p>
             <p>It may not be amiss in this place concisely to remark the origin and progress of the idea,
                 which aims at the exclusion of military establishments in time of peace. Though in
                 speculative minds it may arise from a contemplation of the nature and tendency of such
@@ -66,10 +66,10 @@
                 effected that memorable revolution, were too temperate, too wellinformed, to think of any
                 restraint on the legislative discretion. They were aware that a certain number of troops for
                 guards and garrisons were indispensable; that no precise bounds could be set to the national
-                exigencies; <legislative type="both">that a power equal to every possible contingency must exist somewhere in the
+                exigencies; <legislature type="both">that a power equal to every possible contingency must exist somewhere in the
                 government: and that when they referred the exercise of that power to the judgment of the
                 legislature, they had arrived at the ultimate point of precaution which was reconcilable
-                with the safety of the community.</legislative></p>
+                with the safety of the community.</legislature></p>
             <p>From the same source, the people of America may be said to have derived an hereditary
                 impression of danger to liberty, from standing armies in time of peace. The circumstances of
                 a revolution quickened the public sensibility on every point connected with the security of
@@ -84,12 +84,12 @@
                 reason which had introduced a similar provision into the English Bill of Rights is not
                 applicable to any of the State constitutions. The power of raising armies at all, under
                 those constitutions, can by no construction be deemed to reside anywhere else, than in the
-                legislatures themselves; and <legislative type="populist">it was superfluous, if not absurd, to declare that a matter
-                should not be done without the consent of a body, which alone had the power of doing it.</legislative>
-                <legislative type="elitist">Accordingly, in some of these constitutions, and among others, in that of this State of New
+                legislatures themselves; and <legislature type="populist">it was superfluous, if not absurd, to declare that a matter
+                should not be done without the consent of a body, which alone had the power of doing it.</legislature>
+                <legislature type="elitist">Accordingly, in some of these constitutions, and among others, in that of this State of New
                 York, which has been justly celebrated, both in Europe and America, as one of the best of
                 the forms of government established in this country, there is a total silence upon the
-                subject.</legislative></p>
+                subject.</legislature></p>
             <p><military type="neither">It is remarkable, that even in the two States which seem to have meditated an interdiction
                 of military establishments in time of peace, the mode of expression made use of is rather
                 cautionary than prohibitory.</military> <military type="neither">It is not said, that standing armies SHALL NOT BE kept up, but
@@ -139,11 +139,11 @@
                 presumable, that every man, the instant he took his seat in the national Senate or House of
                 Representatives, would commence a traitor to his constituents and to his country? Can it be
                 supposed that there would not be found one man, discerning enough to detect so atrocious a
-                conspiracy, or bold or honest enough to apprise his constituents of their danger? <legislative type="populist">If such
+                conspiracy, or bold or honest enough to apprise his constituents of their danger? <legislature type="populist">If such
                 presumptions can fairly be made, there ought at once to be an end of all delegated
                 authority. The people should resolve to recall all the powers they have heretofore parted
                 with out of their own hands, and to divide themselves into as many States as there are
-                counties, in order that they may be able to manage their own concerns in person.</legislative></p>
+                counties, in order that they may be able to manage their own concerns in person.</legislature></p>
             <p>If such suppositions could even be reasonably made, still the concealment of the design,
                 for any duration, would be impracticable. It would be announced, by the very circumstance of
                 augmenting the army to so great an extent in time of profound peace. What colorable reason
