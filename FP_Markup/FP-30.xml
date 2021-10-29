@@ -2,13 +2,14 @@
 <?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
   <federalist_papers>
       <paper>
-        <title>FEDERALIST No. 30</title>
-        <p>Concerning the General Power of Taxation</p>
-        <p>From the New York Packet.</p>
-        <p>Friday, December 28, 1787.</p>
-        <author>HAMILTON</author>
+        <head>
+            <title>FEDERALIST No. 30</title>
+            <subtitle>Concerning the General Power of Taxation</subtitle>
+            <source>From the New York Packet.</source>
+            <date>Friday, December 28, 1787.</date>
+            <author>HAMILTON</author></head>
         <body>
-            <p>To the People of the State of New York:</p>
+            <address>To the People of the State of New York:</address>
             <p><taxation type = "neither">IT HAS been already observed that the federal government ought to possess the power of
                 providing for the support of the national forces; in which proposition was intended to be
                 included the expense of raising troops, of building and equipping fleets, and all other
@@ -144,7 +145,7 @@
                 to the lot of other nations, they must appear entitled to serious attention. Such men must
                 behold the actual situation of their country with painful solicitude, and deprecate the
                 evils which ambition or revenge might, with too much facility, inflict upon it.</taxation></p>
-            <p>PUBLIUS.</p>
+            <closing>PUBLIUS.</closing>
         </body>
     </paper>
   </federalist_papers>
