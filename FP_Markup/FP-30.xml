@@ -3,6 +3,7 @@
 <federalist_papers>
       <paper>
         <head>
+<<<<<<< HEAD
         <title>FEDERALIST No. 30</title>
         <subtitle>Concerning the General Power of Taxation</subtitle>
         <source>From the New York Packet.</source>
@@ -12,6 +13,16 @@
         <body>
             <address>To the People of the State of New York:</address>
             <p><taxation type = "elitist">IT HAS been already observed that the federal government ought to possess the power of
+=======
+            <title>FEDERALIST No. 30</title>
+            <subtitle>Concerning the General Power of Taxation</subtitle>
+            <source>From the New York Packet.</source>
+            <date>Friday, December 28, 1787.</date>
+            <author>HAMILTON</author></head>
+        <body>
+            <address>To the People of the State of New York:</address>
+            <p><taxation type = "neither">IT HAS been already observed that the federal government ought to possess the power of
+>>>>>>> 526232de68fd7917fd76c7f5cf894b97bca00062
                 providing for the support of the national forces; in which proposition was intended to be
                 included the expense of raising troops, of building and equipping fleets, and all other
                 expenses in any wise connected with military arrangements and operations. But these are not
@@ -145,7 +156,11 @@
                 likely to experience a common portion of the vicissitudes and calamities which have fallen
                 to the lot of other nations, they must appear entitled to serious attention.</taxation> Such men must
                 behold the actual situation of their country with painful solicitude, and deprecate the
+<<<<<<< HEAD
                 evils which ambition or revenge might, with too much facility, inflict upon it.</p>
+=======
+                evils which ambition or revenge might, with too much facility, inflict upon it.</taxation></p>
+>>>>>>> 526232de68fd7917fd76c7f5cf894b97bca00062
             <closing>PUBLIUS.</closing>
         </body>
     </paper>
