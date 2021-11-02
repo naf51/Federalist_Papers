@@ -9,7 +9,7 @@
     <author>HAMILTON</author>
     </head>
     <body>
-        <p>To the People of the State of New York:</p>
+        <address>To the People of the State of New York:</address>
         <p><judicial type="populist">NEXT to permanency in office, nothing can contribute more to the independence of the judges
             than a fixed provision for their support.</judicial> The remark made in relation to the President is
             equally applicable here. In the general course of human nature, <judicial type="both">A POWER OVER A MAN's
@@ -28,10 +28,10 @@
             devised. It will readily be understood that the fluctuations in the value of money and in
             the state of society rendered a fixed rate of compensation in the Constitution inadmissible.
             <significantPhrase type="both">What might be extravagant to-day, might in half a century become penurious and inadequate.</significantPhrase>
-            <legislature>It was therefore necessary to leave it to the discretion of the legislature to vary its
+            <legislature type="both">It was therefore necessary to leave it to the discretion of the legislature to vary its
             provisions in conformity to the variations in circumstances, yet under such restrictions as
             to put it out of the power of that body to change the condition of the individual for the
-            worse.</legislature> A man may then be sure of the ground upon which he stands, and can never be deterred
+            worse.</legislature > A man may then be sure of the ground upon which he stands, and can never be deterred
             from his duty by the apprehension of being placed in a less eligible situation. The clause
             which has been quoted combines both advantages. The salaries of judicial officers may from
             time to time be altered, as occasion shall require, yet so as never to lessen the allowance
