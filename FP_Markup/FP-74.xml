@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="FP_Markup/federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <federalist_papers>
     <paper>
         <head>
@@ -10,10 +10,10 @@
             <author>HAMILTON</author>
         </head>
         <body>
-            <p>To the People of the State of New York:</p>
-            <p>THE President of the United States is to be <quote>"commander-in-chief of the army and navy of the
+            <address>To the People of the State of New York:</address>
+            <p>THE President of the United States is to be <quote>commander-in-chief of the army and navy of the
                 United States, and of the militia of the several States WHEN CALLED INTO THE ACTUAL SERVICE
-                of the United States."</quote> The propriety of this provision is so evident in itself, and it is,
+                of the United States.</quote> The propriety of this provision is so evident in itself, and it is,
                 at the same time, so consonant to the precedents of the State constitutions in general, that
                 little need be said to explain or enforce it. Even those of them which have, in other
                 respects, coupled the chief magistrate with a council, have for the most part concentrated
@@ -21,12 +21,12 @@
                 direction of war most peculiarly demands those qualities which distinguish the exercise of
                 power by a single hand.</executive> The direction of war implies the direction of the common strength;
                 and the power of directing and employing the common strength, forms a usual and essential
-                part in the definition of the executive authority. <quote>"The President may require the opinion,
+                part in the definition of the executive authority. <quote>The President may require the opinion,
                 in writing, of the principal officer in each of the executive departments, upon any subject
-                relating to the duties of their respective officers."</quote> This I consider as a mere redundancy
+                relating to the duties of their respective officers.</quote> This I consider as a mere redundancy
                 in the plan, as the right for which it provides would result of itself from the office.</p>
-            <p>He is also to be authorized to grant <quote>"reprieves and pardons for offenses against the United
-                States, EXCEPT IN CASES OF IMPEACHMENT."</quote> Humanity and good policy conspire to dictate, that
+            <p>He is also to be authorized to grant <quote>reprieves and pardons for offenses against the United
+                States, EXCEPT IN CASES OF IMPEACHMENT.</quote> Humanity and good policy conspire to dictate, that
                 the benign prerogative of pardoning should be as little as possible fettered or embarrassed.
                 The criminal code of every country partakes so much of necessary severity, that without an
                 easy access to exceptions in favor of unfortunate guilt, justice would wear a countenance

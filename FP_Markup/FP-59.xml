@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="FP_Markup/federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <federalist_papers>
     <paper>
         <head>
@@ -8,7 +8,7 @@
             <source>From the New York Packet. Friday, February 22, 1788.</source>
             <author>HAMILTON</author></head>
         <body>
-            <p>To the People of the State of New York:</p>
+            <address>To the People of the State of New York:</address>
             <p>THE natural order of the subject leads us to consider, in this place, that provision of the
                 Constitution which authorizes the national legislature to regulate, in the last resort, the
                 election of its own members. It is in these words: <quote>"The TIMES, PLACES, and MANNER of holding

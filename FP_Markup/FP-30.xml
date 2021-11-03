@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
-  <federalist_papers>
+<federalist_papers>
       <paper>
+        <head>
         <title>FEDERALIST No. 30</title>
-        <p>Concerning the General Power of Taxation</p>
-        <p>From the New York Packet.</p>
-        <p>Friday, December 28, 1787.</p>
+        <subtitle>Concerning the General Power of Taxation</subtitle>
+        <source>From the New York Packet.</source>
+        <date>Friday, December 28, 1787.</date>
         <author>HAMILTON</author>
+        </head>
         <body>
-            <p>To the People of the State of New York:</p>
+            <address>To the People of the State of New York:</address>
             <p><taxation type = "neither">IT HAS been already observed that the federal government ought to possess the power of
                 providing for the support of the national forces; in which proposition was intended to be
                 included the expense of raising troops, of building and equipping fleets, and all other
@@ -36,34 +38,34 @@
                 Who can doubt, that the happiness of the people in both countries would be promoted by
                 competent authorities in the proper hands, to provide the revenues which the necessities of
                 the public might require?</taxation></p>
-            <p><taxation type = "populist">The present Confederation, feeble as it is intended to repose in the United States, an
-                unlimited power of providing for the pecuniary wants of the Union. But proceeding upon an
+            <p><taxation type = "elitist">The present Confederation, feeble as it is intended to repose in the United States, an
+                unlimited power of providing for the pecuniary wants of the Union.</taxation> But proceeding upon an
                 erroneous principle, it has been done in such a manner as entirely to have frustrated the
-                intention. Congress, by the articles which compose that compact (as has already been
+                intention. <taxation type = "elitist">Congress, by the articles which compose that compact (as has already been
                 stated), are authorized to ascertain and call for any sums of money necessary, in their
                 judgment, to the service of the United States; and their requisitions, if conformable to the
-                rule of apportionment, are in every constitutional sense obligatory upon the States. These
+                rule of apportionment, are in every constitutional sense obligatory upon the States.</taxation> <taxation type = "elitist">These
                 have no right to question the propriety of the demand; no discretion beyond that of devising
                 the ways and means of furnishing the sums demanded. But though this be strictly and truly
                 the case; though the assumption of such a right would be an infringement of the articles of
                 Union; though it may seldom or never have been avowedly claimed, yet in practice it has been
                 constantly exercised, and would continue to be so, as long as the revenues of the
-                Confederacy should remain dependent on the intermediate agency of its members. What the
+                Confederacy should remain dependent on the intermediate agency of its members.</taxation> What the
                 consequences of this system have been, is within the knowledge of every man the least
                 conversant in our public affairs, and has been amply unfolded in different parts of these
                 inquiries. It is this which has chiefly contributed to reduce us to a situation, which
-                affords ample cause both of mortification to ourselves, and of triumph to our enemies.</taxation></p>
+                affords ample cause both of mortification to ourselves, and of triumph to our enemies.</p>
             <p><taxation type = "both">What remedy can there be for this situation, but in a change of the system which has
-                produced it in a change of the fallacious and delusive system of quotas and requisitions?
+                produced it in a change of the fallacious and delusive system of quotas and requisitions?</taxation>
                 What substitute can there be imagined for this ignis fatuus in finance, but that of
                 permitting the national government to raise its own revenues by the ordinary methods of
                 taxation authorized in every well-ordered constitution of civil government? Ingenious men
                 may declaim with plausibility on any subject; but no human ingenuity can point out any other
                 expedient to rescue us from the inconveniences and embarrassments naturally resulting from
-                defective supplies of the public treasury.</taxation></p>
-            <p><taxation type = "populist">The more intelligent adversaries of the new Constitution admit the force of this reasoning;
+                defective supplies of the public treasury.</p>
+            <p><taxation type = "elitist">The more intelligent adversaries of the new Constitution admit the force of this reasoning;
                 but they qualify their admission by a distinction between what they call INTERNAL and
-                EXTERNAL taxation. The former they would reserve to the State governments; the latter, which
+                EXTERNAL taxation.</taxation> The former they would reserve to the State governments; the latter, which
                 they explain into commercial imposts, or rather duties on imported articles, they declare
                 themselves willing to concede to the federal head. This distinction, however, would violate
                 the maxim of good sense and sound policy, which dictates that every POWER ought to be in
@@ -77,21 +79,21 @@
                 this resource alone, upon the most improved scale, would even suffice for its present
                 necessities. Its future necessities admit not of calculation or limitation; and upon the
                 principle, more than once adverted to, the power of making provision for them as they arise
-                ought to be equally unconfined. I believe it may be regarded as a position warranted by the
+                ought to be equally unconfined. <taxation type = "elitist">I believe it may be regarded as a position warranted by the
                 history of mankind, that, IN THE USUAL PROGRESS OF THINGS, THE NECESSITIES OF A NATION, IN
                 EVERY STAGE OF ITS EXISTENCE, WILL BE FOUND AT LEAST EQUAL TO ITS RESOURCES.</taxation></p>
             <p><taxation type = "populist">To say that deficiencies may be provided for by requisitions upon the States, is on the one
                 hand to acknowledge that this system cannot be depended upon, and on the other hand to
-                depend upon it for every thing beyond a certain limit. Those who have carefully attended to
+                depend upon it for every thing beyond a certain limit.</taxation> Those who have carefully attended to
                 its vices and deformities as they have been exhibited by experience or delineated in the
                 course of these papers, must feel invincible repugnancy to trusting the national interests
-                in any degree to its operation. Its inevitable tendency, whenever it is brought into
+                in any degree to its operation. <taxation type = "elitist">Its inevitable tendency, whenever it is brought into
                 activity, must be to enfeeble the Union, and sow the seeds of discord and contention between
-                the federal head and its members, and between the members themselves. Can it be expected
+                the federal head and its members, and between the members themselves.</taxation> Can it be expected
                 that the deficiencies would be better supplied in this mode than the total wants of the
-                Union have heretofore been supplied in the same mode? It ought to be recollected that if
+                Union have heretofore been supplied in the same mode? <taxation type = "elitist">It ought to be recollected that if
                 less will be required from the States, they will have proportionably less means to answer
-                the demand. If the opinions of those who contend for the distinction which has been
+                the demand.</taxation> If the opinions of those who contend for the distinction which has been
                 mentioned were to be received as evidence of truth, one would be led to conclude that there
                 was some known point in the economy of national affairs at which it would be safe to stop
                 and to say: Thus far the ends of public happiness will be promoted by supplying the wants of
@@ -102,8 +104,8 @@
                 confidence at home or respectability abroad? How can its administration be any thing else
                 than a succession of expedients temporizing, impotent, disgraceful? How will it be able to
                 avoid a frequent sacrifice of its engagements to immediate necessity? How can it undertake
-                or execute any liberal or enlarged plans of public good?</taxation></p>
-            <p><taxation type = "populist">Let us attend to what would be the effects of this situation in the very first war in which
+                or execute any liberal or enlarged plans of public good?</p>
+            <p>Let us attend to what would be the effects of this situation in the very first war in which
                 we should happen to be engaged. We will presume, for argument's sake, that the revenue
                 arising from the impost duties answers the purposes of a provision for the public debt and
                 of a peace establishment for the Union. Thus circumstanced, a war breaks out. What would be
@@ -111,11 +113,11 @@
                 proper dependence could not be placed on the success of requisitions, unable by its own
                 authority to lay hold of fresh resources, and urged by considerations of national danger,
                 would it not be driven to the expedient of diverting the funds already appropriated from
-                their proper objects to the defense of the State? It is not easy to see how a step of this
+                their proper objects to the defense of the State? <taxation type = "populist">It is not easy to see how a step of this
                 kind could be avoided; and if it should be taken, it is evident that it would prove the
                 destruction of public credit at the very moment that it was becoming essential to the public
-                safety. To imagine that at such a crisis credit might be dispensed with, would be the
-                extreme of infatuation. In the modern system of war, nations the most wealthy are obliged to
+                safety.</taxation> To imagine that at such a crisis credit might be dispensed with, would be the
+                extreme of infatuation. <taxation type = "elitist">In the modern system of war, nations the most wealthy are obliged to
                 have recourse to large loans. A country so little opulent as ours must feel this necessity
                 in a much stronger degree. But who would lend to a government that prefaced its overtures
                 for borrowing by an act which demonstrated that no reliance could be placed on the
@@ -125,14 +127,14 @@
                 hand and at enormous premiums.</taxation></p>
             <p><taxation type = "both">It may perhaps be imagined that, from the scantiness of the resources of the country, the
                 necessity of diverting the established funds in the case supposed would exist, though the
-                national government should possess an unrestrained power of taxation. But two considerations
+                national government should possess an unrestrained power of taxation.</taxation> <taxation type = "elitist">But two considerations
                 will serve to quiet all apprehension on this head: one is, that we are sure the resources of
                 the community, in their full extent, will be brought into activity for the benefit of the
                 Union; the other is, that whatever deficiences there may be, can without difficulty be
                 supplied by loans.</taxation></p>
-            <p><taxation type = "neither">The power of creating new funds upon new objects of taxation, by its own authority, would
-                enable the national government to borrow as far as its necessities might require.
-                Foreigners, as well as the citizens of America, could then reasonably repose confidence in
+            <p><taxation type = "elitist">The power of creating new funds upon new objects of taxation, by its own authority, would
+                enable the national government to borrow as far as its necessities might require.</taxation>
+                <taxation type = "elitist">Foreigners, as well as the citizens of America, could then reasonably repose confidence in
                 its engagements; but to depend upon a government that must itself depend upon thirteen other
                 governments for the means of fulfilling its contracts, when once its situation is clearly
                 understood, would require a degree of credulity not often to be met with in the pecuniary
@@ -141,10 +143,11 @@
             <p><taxation type = "both">Reflections of this kind may have trifling weight with men who hope to see realized in
                 America the halcyon scenes of the poetic or fabulous age; but to those who believe we are
                 likely to experience a common portion of the vicissitudes and calamities which have fallen
-                to the lot of other nations, they must appear entitled to serious attention. Such men must
+                to the lot of other nations, they must appear entitled to serious attention.</taxation> Such men must
                 behold the actual situation of their country with painful solicitude, and deprecate the
-                evils which ambition or revenge might, with too much facility, inflict upon it.</taxation></p>
-            <p>PUBLIUS.</p>
+                evils which ambition or revenge might, with too much facility, inflict upon it.
+                evils which ambition or revenge might, with too much facility, inflict upon it.</p>
+            <closing>PUBLIUS.</closing>
         </body>
     </paper>
   </federalist_papers>

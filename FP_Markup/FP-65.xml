@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="FP_Markup/federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="federalist-papers-relaxNG.rnc" type="application/relax-ng-compact-syntax"?>
 <federalist_papers>
     <paper>
         <head>
@@ -9,15 +9,15 @@
             <date>Friday, March 7, 1788.</date>
             <author>HAMILTON</author></head>
         <body>
-            <p>To the People of the State of New York:</p>
+            <address>To the People of the State of New York:</address>
             <p>THE remaining powers which the plan of the convention allots to the Senate, in a distinct
                 capacity, are comprised in their participation with the executive in the appointment to
                 offices, and in their judicial character as a court for the trial of impeachments. As in the
                 business of appointments the executive will be the principal agent, the provisions relating
                 to it will most properly be discussed in the examination of that department. We will,
                 therefore, conclude this head with a view of the judicial character of the Senate.</p>
-            <p><legislative type="neither">A well-constituted court for the trial of impeachments is an object not more to be desired
-                than difficult to be obtained in a government wholly elective.</legislative> The subjects of its
+            <p><legislature type="neither">A well-constituted court for the trial of impeachments is an object not more to be desired
+                than difficult to be obtained in a government wholly elective.</legislature> The subjects of its
                 jurisdiction are those offenses which proceed from the misconduct of public men, or, in
                 other words, from the abuse or violation of some public trust. They are of a nature which
                 may with peculiar propriety be denominated POLITICAL, as they relate chiefly to injuries
@@ -36,10 +36,10 @@
                 the tools of the most cunning or the most numerous faction, and on this account, can hardly
                 be expected to possess the requisite neutrality towards those whose conduct may be the
                 subject of scrutiny.</p>
-            <p><legislative type="neither">The convention, it appears, thought the Senate the most fit depositary of this important
+            <p><legislature type="neither">The convention, it appears, thought the Senate the most fit depositary of this important
                 trust. Those who can best discern the intrinsic difficulty of the thing, will be least hasty
                 in condemning that opinion, and will be most inclined to allow due weight to the arguments
-                which may be supposed to have produced it.</legislative></p>
+                which may be supposed to have produced it.</legislature></p>
             <p>What, it may be asked, is the true spirit of the institution itself? Is it not designed as
                 a method of NATIONAL INQUEST into the conduct of public men? If this be the design of it,
                 who can so properly be the inquisitors for the nation as the representatives of the nation
@@ -54,37 +54,37 @@
                 practice of impeachments as a bridle in the hands of the legislative body upon the executive
                 servants of the government. Is not this the true light in which it ought to be regarded?</historicalComparison></p>
             <p>Where else than in the Senate could have been found a tribunal sufficiently dignified, or
-                sufficiently independent? <legislative type="neither">What other body would be likely to feel CONFIDENCE ENOUGH IN ITS
+                sufficiently independent? <legislature type="neither">What other body would be likely to feel CONFIDENCE ENOUGH IN ITS
                 OWN SITUATION, to preserve, unawed and uninfluenced, the necessary impartiality between an
-                INDIVIDUAL accused, and the REPRESENTATIVES OF THE PEOPLE, HIS ACCUSERS?</legislative></p>
-            <p>Could the Supreme Court have been relied upon as answering this description? <legislative type="populist">It is much to
+                INDIVIDUAL accused, and the REPRESENTATIVES OF THE PEOPLE, HIS ACCUSERS?</legislature></p>
+            <p>Could the Supreme Court have been relied upon as answering this description? <legislature type="populist">It is much to
                 be doubted, whether the members of that tribunal would at all times be endowed with so
                 eminent a portion of fortitude, as would be called for in the execution of so difficult a
                 task; and it is still more to be doubted, whether they would possess the degree of credit
                 and authority, which might, on certain occasions, be indispensable towards reconciling the
                 people to a decision that should happen to clash with an accusation brought by their
-                immediate representatives.</legislative> A deficiency in the first, would be fatal to the accused; in the
+                immediate representatives.</legislature> A deficiency in the first, would be fatal to the accused; in the
                 last, dangerous to the public tranquillity. The hazard in both these respects, could only be
                 avoided, if at all, by rendering that tribunal more numerous than would consist with a
                 reasonable attention to economy. The necessity of a numerous court for the trial of
-                impeachments, is equally dictated by the nature of the proceeding. <legislative type="neither">This can never be tied
+                impeachments, is equally dictated by the nature of the proceeding. <legislature type="neither">This can never be tied
                 down by such strict rules, either in the delineation of the offense by the prosecutors, or
                 in the construction of it by the judges, as in common cases serve to limit the discretion of
-                courts in favor of personal security.</legislative> There will be no jury to stand between the judges who
-                are to pronounce the sentence of the law, and the party who is to receive or suffer it. <legislative type="populist">The
+                courts in favor of personal security.</legislature> There will be no jury to stand between the judges who
+                are to pronounce the sentence of the law, and the party who is to receive or suffer it. <legislature type="populist">The
                 awful discretion which a court of impeachments must necessarily have, to doom to honor or to
                 infamy the most confidential and the most distinguished characters of the community, forbids
-                the commitment of the trust to a small number of persons.</legislative></p>
+                the commitment of the trust to a small number of persons.</legislature></p>
             <p>These considerations seem alone sufficient to authorize a conclusion, that the Supreme
                 Court would have been an improper substitute for the Senate, as a court of impeachments.
                 There remains a further consideration, which will not a little strengthen this conclusion.
                 It is this: The punishment which may be the consequence of conviction upon impeachment, is
-                not to terminate the chastisement of the offender. <legislative type="elitist">After having been sentenced to a
+                not to terminate the chastisement of the offender. <legislature type="elitist">After having been sentenced to a
                 perpetual ostracism from the esteem and confidence, and honors and emoluments of his
                 country, he will still be liable to prosecution and punishment in the ordinary course of
                 law. Would it be proper that the persons who had disposed of his fame, and his most valuable
                 rights as a citizen in one trial, should, in another trial, for the same offense, be also
-                the disposers of his life and his fortune?</legislative> Would there not be the greatest reason to
+                the disposers of his life and his fortune?</legislature> Would there not be the greatest reason to
                 apprehend, that error, in the first sentence, would be the parent of error in the second
                 sentence? That the strong bias of one decision would be apt to overrule the influence of any
                 new lights which might be brought to vary the complexion of another decision? Those who know
@@ -96,14 +96,14 @@
                 than dismission from a present, and disqualification for a future, office. It may be said,
                 that the intervention of a jury, in the second instance, would obviate the danger. But
                 juries are frequently influenced by the opinions of judges. They are sometimes induced to
-                find special verdicts, which refer the main question to the decision of the court. <legislative type="elitist">Who would
+                find special verdicts, which refer the main question to the decision of the court. <legislature type="elitist">Who would
                 be willing to stake his life and his estate upon the verdict of a jury acting under the
-                auspices of judges who had predetermined his guilt?</legislative></p>
-            <p><legislative type="neither">Would it have been an improvement of the plan, to have united the Supreme Court with the
+                auspices of judges who had predetermined his guilt?</legislature></p>
+            <p><legislature type="neither">Would it have been an improvement of the plan, to have united the Supreme Court with the
                 Senate, in the formation of the court of impeachments? This union would certainly have been
                 attended with several advantages; but would they not have been overbalanced by the signal
                 disadvantage, already stated, arising from the agency of the same judges in the double
-                prosecution to which the offender would be liable?</legislative> To a certain extent, the benefits of that
+                prosecution to which the offender would be liable?</legislature> To a certain extent, the benefits of that
                 union will be obtained from making the chief justice of the Supreme Court the president of
                 the court of impeachments, as is proposed to be done in the plan of the convention; while
                 the inconveniences of an entire incorporation of the former into the latter will be
@@ -134,12 +134,12 @@
                 supposition may seem harsh, and might not be likely often to be verified, yet it ought not
                 to be forgotten that the demon of faction will, at certain seasons, extend his sceptre over
                 all numerous bodies of men.</p>
-            <p><legislative type="neither">But though one or the other of the substitutes which have been examined, or some other that
+            <p><legislature type="neither">But though one or the other of the substitutes which have been examined, or some other that
                 might be devised, should be thought preferable to the plan in this respect, reported by the
                 convention, it will not follow that the Constitution ought for this reason to be rejected.
                 If mankind were to resolve to agree in no institution of government, until every part of it
                 had been adjusted to the most exact standard of perfection, society would soon become a
-                general scene of anarchy, and the world a desert.</legislative> Where is the standard of perfection to be
+                general scene of anarchy, and the world a desert.</legislature> Where is the standard of perfection to be
                 found? Who will undertake to unite the discordant opinions of a whole community, in the same
                 judgment of it; and to prevail upon one conceited projector to renounce his INFALLIBLE
                 criterion for the FALLIBLE criterion of his more CONCEITED NEIGHBOR? To answer the purpose
