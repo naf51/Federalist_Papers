@@ -4,9 +4,9 @@
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="#all"
     version="3.0">
-    <xsl:output method="text" omit-xml-declaration="no" 
-        include-content-type="no" indent="no"/>
+    <xsl:output method="text"/>
     <xsl:template match="/">
-        <xsl:apply-templates select="//body"/>
+        <!--<xsl:apply-templates select="//body"/>-->
+        <xsl:value-of select="normalize-space(lower-case(//body))"/>
     </xsl:template>
 </xsl:stylesheet>
