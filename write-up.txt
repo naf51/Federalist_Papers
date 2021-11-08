@@ -1,0 +1,69 @@
+Write Up
+
+11/8/2021
+
+Written By: Nate Frigoletto
+
+About / Research Question:
+
+Do you ever wonder if politicians say what they truly believe in? We generally see politicians today as persuasive orators with selfish motives 
+to make their audience believe something that is not truthful or real seem real and attainable. Our research question for this project is the 
+following: The How does the image and appeal of political arguments in persuasive literature like the Federalist Papers compare to the political
+ideologies of their authors?
+
+Why We Chose The Federalist Papers:
+
+Of all the politicians with a vast collective of speeches and writing, we chose to analyze the Federalist Papers. Why? We chose them because of
+their purpose: to convince the states (mainly the State of New York) to ratify the newly written Constitution. It is a corpus that was intended
+to persuade, inform, and say to the world that the newly established democracy was thoughtfully created and supported by the people who developed
+it. More importantly, it was addressed "To the People of the State of New York:". Meaning, it was intended for the people, or was it? The majority
+of the general public during this time grew tired of Britian's tyrranical madness and desired a life that granted more independence, liberties,
+and unconstrained social/economic mobility. So, under this prevalent ideology, the Federalist Papers and their author, are a prime resource
+to see if Hamilton's rhetoric actually aligned with the Federalist Party's values, or if it appealed to the masses. 
+
+Why We Chose Hamilton:
+
+Out of the three authors of the Federalist Papers, we chose Alexander Hamilton. Why? We have three important reasons. First, he was the main
+contributor to the Papers and their publication. Out of all 85 Federalist Papers, he wrote 51, with James Madison writing 29, and John Jay 
+writing 5. Second, he was known to be the father and creator of the Federalist Party, the first established political party in US history. 
+So, his political ideology would be the closest to that party's beliefs, which would be useful when considering our research question. Third,
+much of the letters written by him were very dense and were centered around important features of the newly created government. Some of these
+features were: The Judiciary, Executive, and Legislative branches, the Bill of Rights, the Military, and the powers of Taxation.
+
+Our Methods:
+
+We chose approximately half of the papers chosen by Hamilton and chose them on the basis of content. Many of his papers were additions to a certain
+topic. So, to have the ability to use all topics, some were taken out for the sake of time. We identified thirteen element tags that specified the
+topic of content. These were features of government like the judiciary, executive, military, taxation, etc. Within those elements were four 
+attributes: "elitist", "populist", "both", and "neither". These indicate the tone and type of statement/belief Hamilton possesses within a
+certain element. This combination is a way to track and analyze his views and opinions on certain aspects of government. We created our markup in
+XML, validated the papers via a RelaxNG schema, and used MALLET for topic-modeling, which would provide a visual of the content within the papers
+that was vital towards the comparison 
+
+Our Sources:
+
+We used a variety of sources for the research and analysis of this project. We found an XML document of all 85 Federalist Papers from Github.
+Specifically, the federalist-bookworm: https://github.com/bmschmidt/federalist-bookworm. We narrowed our markup documents by utilizing the
+Library of Congress online resource/database of the Federalist Papers, which show the author and provide a small summary of each paper. From
+there, we marked up the 24 papers we chose with the elements and attributes created, along with changing the metadata and the root element. Next, 
+we created an RelaxNG Schema and conducted a batch validation across all 24 papers.
+
+The Papers:
+
+**Visual Showcase Of The Papers**
+**Topic Modeling**
+
+Our Results:
+
+X, Y, Z. 
+
+
+About Us:
+
+Patrick Carrol: ----
+
+Nate Frigoletto: ----
+
+Shane Moniot: ----
+
+
