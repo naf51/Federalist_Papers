@@ -48,3 +48,19 @@
         </span>
     </xsl:template>
 </xsl:stylesheet>
+<!-- 2021-11-14 esr
+
+Good work on this initial reading view!
+
+Here are some suggestions to improve:
+
+At the moment, everything is outputted as a wall of text. 
+We want to preserve the paragraph strucutre of the original document, 
+which means we need to create a template to handle and create paragraphs.
+You can see one way to do this in the answer key to XSLT #3.
+
+Consider your header hierarchy a bit more closely.
+You can decide for yourself but it may be that the author and source or the source and subtitle are on the same levels in the hierarchy.
+
+Moving forward, I would suggest looking into a way to create a table of contents and performing batch transformation.
+-->
