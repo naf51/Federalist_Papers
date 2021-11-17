@@ -1,0 +1,49 @@
+.vertical-menu {
+  width: 200px;
+  margin: 40px;
+}
+
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+  
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+img {
+position:absolute;
+    z-index:0;
+    text-align: left;
+}
+
+body {
+background: url(https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Federalist_%281st_ed%2C_1788%2C_vol_I%2C_title_page%29_-_02.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Brush Script MT", "Brush Script Std", cursive;
+    font-size: 60px;
+}
+
+div.textarea {
+    display: block;
+    border: 1px solid black;
+    text-align: center;
+    background-color: beige;
+    margin-left: 40px;
+    margin-right: 40px;
+}
