@@ -28,6 +28,7 @@ of the general public during this time grew tired of Britain's tyrannical madnes
 and unconstrained social/economic mobility. So, under this prevalent ideology, the Federalist Papers and their author, are a prime resource
 to see if Hamilton's rhetoric actually aligned with the Federalist Party's values, or if it appealed to the masses. 
 
+We also chose the Federalist Papers because "Publius", the pen name used for all 85 letters, is a latin term meaning, "the people". So, analyzing documents that are clearly posed to be written by the public when in reality written by elites is important to see whether the documents and writing is truthful and accurate of individual political ideologies. It also raises the question: Did Hamilton write the Federalist Papers abiding by his personal political motives aligning with the Federalist Party? Or was his writing altered to appease the masses? We wanted to explore this by analyzing his writing. 
 
 Why We Chose Hamilton:
 
@@ -48,7 +49,7 @@ topic of content. These were features of government like the judiciary, executiv
 attributes: "elitist", "populist", "both", and "neither". These indicate the tone and type of statement/belief Hamilton possesses within a
 certain element. This combination is a way to track and analyze his views and opinions on certain aspects of government. We created our markup in
 XML, validated the papers via a RelaxNG schema, and used MALLET for topic-modeling, which would provide a visual of the content within the papers
-that was vital towards the comparison 
+that was vital towards the comparison.
 
 Our Sources:
 
@@ -57,6 +58,10 @@ Specifically, the federalist-bookworm: https://github.com/bmschmidt/federalist-b
 Library of Congress online resource/database of the Federalist Papers, which show the author and provide a small summary of each paper. From
 there, we marked up the 24 papers we chose with the elements and attributes created, along with changing the metadata and the root element. Next, 
 we created an RelaxNG Schema and conducted a batch validation across all 24 papers.
+
+We used governmental resources such as the Library of Congress's website that displays the corpus of documents to indicate which of the three founding father's wrote which paper. Because they all wrote under the pen name "Publius", latin meaning "the people", it would have been virtually impossible to know who wrote each paper. This was vital for our selection of documents for our analysis.
+
+
 
 The Papers:
 
