@@ -8,18 +8,27 @@ About / Research Question:
 
 Do you ever wonder if politicians say what they truly believe in? We generally see politicians today as persuasive orators with selfish motives 
 to make their audience believe something that is not truthful or real seem real and attainable. Our research question for this project is the 
-following: The How does the image and appeal of political arguments in persuasive literature like the Federalist Papers compare to the political
-ideologies of their authors?
+following: How do elites such as Alexander Hamilton in the Federalist Papers apply their political ideologies to appeal to those of opposing ideologies of the lower and populist political ideals?
 
+Why Are We Analyzing Documents Almost 235 Years Old?
+
+This time period is a immensely critical stage for American democracy. As history tells us, the Articles of Confederation were incredibly unsuccessful at maintaining order and establishing a federal government that had any real power. The inability to tax and control states left the U.S. vulnerable to foes like Great Britain. Democracy is very fragile during the time of the publication of the Federalist Papers, much like the times we live in today. Democracy is still fragile after events such as those occurring on 01/06/2021. So, recent fragility and increasing toxicity and fragmentation among government and those identifying with political parties were huge motivators for us.
+
+In addition, scholars of this period like Thomas Paine and his legendary work, "Common Sense" is known to have been a tremendous influence on the support of the patriot cause and rebellion against the Crown. His paper, through the help of publishers in large cities such as Benjamin Franklin in Philadelphia, helped publish his paper and distribute it all throughout the colonies at a rapid pace. Recent publication of "Colonial America in an Atlantic World", by T.H. Breen, says that the political ideologies of the working people consisted of the idea of an economy free from tyrannical Britain, political rights granting personal freedoms, and a government structure less intense and intruding as the one of Great Britain. So, during this time, the working class and majority of the Colonies were supportive of people's rights and individuality, it opposes the ideals of the elites like Hamilton who supported strong, centralized government, with the ability to tax and wage war.  
+
+It is clear that history does repeat itself. Because of this, we believed it be beneficial to analyze documents from the past so that they can help solve potential problems occurring in the future. Also, analyzing the rhetoric of elites with an intention to support opposing political ideologies is relevant, regardless of what time period it took place in. 
+ 
 Why We Chose The Federalist Papers:
 
 Of all the politicians with a vast collective of speeches and writing, we chose to analyze the Federalist Papers. Why? We chose them because of
 their purpose: to convince the states (mainly the State of New York) to ratify the newly written Constitution. It is a corpus that was intended
 to persuade, inform, and say to the world that the newly established democracy was thoughtfully created and supported by the people who developed
 it. More importantly, it was addressed "To the People of the State of New York:". Meaning, it was intended for the people, or was it? The majority
-of the general public during this time grew tired of Britian's tyrranical madness and desired a life that granted more independence, liberties,
+of the general public during this time grew tired of Britain's tyrannical madness and desired a life that granted more independence, liberties,
 and unconstrained social/economic mobility. So, under this prevalent ideology, the Federalist Papers and their author, are a prime resource
 to see if Hamilton's rhetoric actually aligned with the Federalist Party's values, or if it appealed to the masses. 
+
+We also chose the Federalist Papers because "Publius", the pen name used for all 85 letters, is a latin term meaning, "the people". So, analyzing documents that are clearly posed to be written by the public when in reality written by elites is important to see whether the documents and writing is truthful and accurate of individual political ideologies. It also raises the question: Did Hamilton write the Federalist Papers abiding by his personal political motives aligning with the Federalist Party? Or was his writing altered to appease the masses? We wanted to explore this by analyzing his writing. 
 
 Why We Chose Hamilton:
 
@@ -30,6 +39,8 @@ So, his political ideology would be the closest to that party's beliefs, which w
 much of the letters written by him were very dense and were centered around important features of the newly created government. Some of these
 features were: The Judiciary, Executive, and Legislative branches, the Bill of Rights, the Military, and the powers of Taxation.
 
+In addition to this, we wanted to choose a historical figure that has had posthumous fame, especially in recent years. With the sensational broadway play "Hamilton", along with the biography it was based on by Ron Chernow, what better figure to choose than Alexander Hamilton. We thought it best to dive deeper into what he said using a specific corpus of documents. With that, the Federalist Papers were clearly the most popular, accessible, and focused corpus of documents that he wrote in his career. 
+
 Our Methods:
 
 We chose approximately half of the papers chosen by Hamilton and chose them on the basis of content. Many of his papers were additions to a certain
@@ -38,7 +49,7 @@ topic of content. These were features of government like the judiciary, executiv
 attributes: "elitist", "populist", "both", and "neither". These indicate the tone and type of statement/belief Hamilton possesses within a
 certain element. This combination is a way to track and analyze his views and opinions on certain aspects of government. We created our markup in
 XML, validated the papers via a RelaxNG schema, and used MALLET for topic-modeling, which would provide a visual of the content within the papers
-that was vital towards the comparison 
+that was vital towards the comparison.
 
 Our Sources:
 
@@ -47,6 +58,10 @@ Specifically, the federalist-bookworm: https://github.com/bmschmidt/federalist-b
 Library of Congress online resource/database of the Federalist Papers, which show the author and provide a small summary of each paper. From
 there, we marked up the 24 papers we chose with the elements and attributes created, along with changing the metadata and the root element. Next, 
 we created an RelaxNG Schema and conducted a batch validation across all 24 papers.
+
+We used governmental resources such as the Library of Congress's website that displays the corpus of documents to indicate which of the three founding father's wrote which paper. Because they all wrote under the pen name "Publius", latin meaning "the people", it would have been virtually impossible to know who wrote each paper. This was vital for our selection of documents for our analysis.
+
+
 
 The Papers:
 

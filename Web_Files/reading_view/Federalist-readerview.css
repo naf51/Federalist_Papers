@@ -1,0 +1,82 @@
+body {background-color: beige;}
+
+span.address {
+   font-style: italic
+}
+
+span.federalism {
+    color: blue;
+}
+
+span.significantPhrase {
+    color: red;
+}
+
+span.historicalComparison {
+    color: white;
+}
+
+span.closing {
+    font-style: italic;
+}
+
+span[about=elitist] {
+    font-weight: 600;
+}
+
+span[about=populist] {
+    text-decoration: underline;
+}
+
+span[about=both] {
+    font-weight:600;
+    text-decoration: underline;
+}
+
+span.military {
+    color: purple;
+}
+
+span.trade {
+    color: green;
+}
+
+span.taxation {
+    color: #00ff87;
+}
+
+span.foreignPolicy {
+    color: orange;
+}
+
+span.liberty {
+    color: cyan;
+}
+
+span.executive {
+    color: brown;
+}
+
+span.judicial {
+    color: #FFC0CB
+}
+
+span.legislature {
+    color: yellow;
+}
+
+span.quote::before {
+    content: open-quote;
+}
+
+span.quote::after {
+    content: close-quote;
+}
+
+span.parenthesis::before {
+    content: "("
+}
+
+span.parenthesis::after {
+    content: ")"
+}
