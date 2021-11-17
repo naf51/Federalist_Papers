@@ -1,0 +1,13 @@
+Methods:
+
+Topic modeling was extremely effective using our data and produced some very strong results. I had to play around with the parameters used when generating the topics in order
+to get what I thought were the "strongest" topics and that seemed the most relavent to our research question. I found that I was able to produce the best results by setting
+the number of outputted topics to 20 as well as the optimization interval to 20. This provided me with 20 different topics, all of varying strengths/frequencies used throughout
+the papers. From here I am able to select the handful of topics that we want to focus on that are most prevelant to our research question, assign them a name/title, and begin
+modeling the data.
+
+Modeling:
+
+There are a lot of different routes to take when deciding how to best visually represent the topics produced by MALLET. The most effective method seems to be producing graphs
+with SVG. By producing graphs, such as bar charts, we will be able to easily see how often each topic is used throughout the papers, as well as easily compare them to other
+topics in the papers.
