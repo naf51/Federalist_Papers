@@ -28,14 +28,15 @@ position:absolute;
 }
 
 body {
-background: url(https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Federalist_%281st_ed%2C_1788%2C_vol_I%2C_title_page%29_-_02.jpg);
+background-color: #FFFAF0;
   background-repeat: no-repeat;
   background-size: 100% auto;
+  font-family: "Garamond";
 }
 
 h1 {
     text-align: center;
-    font-family: "Brush Script MT", "Brush Script Std", cursive;
+    font-family: "American Typewriter";
     font-size: 60px;
 }
 
@@ -43,7 +44,13 @@ div.textarea {
     display: block;
     border: 1px solid black;
     text-align: center;
-    background-color: beige;
-    margin-left: 40px;
-    margin-right: 40px;
+    background-color: #04AA6D;
+    margin-left: 60px;
+    margin-right: 60px;
+    line-height: 30px;
+    font-size: 1.28em   
+}
+
+h2 {
+    font-family: "American Typewriter";
 }
