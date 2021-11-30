@@ -4,10 +4,11 @@
 }
 
 .vertical-menu a {
-  background-color: #eee;
+  background-color: #04AA6D;
   color: black;
   display: block;
   padding: 20px;
+  border: 1px solid black;
   text-decoration: none;
   
 }
@@ -40,15 +41,16 @@ h1 {
     font-size: 60px;
 }
 
-div.textarea {
+.textarea {
     display: block;
-    border: 1px solid black;
+    border: 3px solid black;
     text-align: center;
     background-color: #04AA6D;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
     line-height: 30px;
-    font-size: 1.28em   
+    font-size: 1.28em;
+    
 }
 
 h2 {
