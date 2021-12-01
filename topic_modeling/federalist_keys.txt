@@ -3,14 +3,14 @@
 2 (populist)		0.29638	liberty civil pennsylvania revolution popular single property taking particulars institutions limits subsequent opponents provided specification abolition expression exclusion silence ready 
 3 (legislative)		0.06764	amendments adoption credit thirteen amendment brought defects work perfect bring concessions impose deficiencies inconveniences expect perpetual act compose penalty compacts 
 4 (military)		0.01297	navigation navy markets part world ships greater strength naval maritime intercourse view combinations interest west price competitions supply profits american 
-5 (federalism)		0.37925	legislative executive case body propriety period improper judges apt negative magistrate good give exercise proceed bad eligible defense provision receive 
+5 (government)		0.37925	legislative executive case body propriety period improper judges apt negative magistrate good give exercise proceed bad eligible defense provision receive 
 6 (trade)		0.10586	commerce trade nations great britain confederacy commercial revenue america confederacies southern france articles northern economy european advantage communication direct nation 
 7 (legislative)		0.09971	rights expense bill liberty persons representatives congress constitution press bills clause additional section business information distance number extra declaration granted 
 8 (judicial)		0.1255	court supreme judges impeachments inferior appellate fact tribunal judicial offices character justice re-examination legislative original independent respective appeals constituting revision 
 9 (military)		0.06613	militia army defense corps direction fit end apt natural military guilt assemble select motives posse calling disciplining discipline services insurrection 
 10 (populist)		0.12478	land duties kind resolutions practicable laws quantity share passions community eye free comitatus quarter process indefinite violent desperate extremity consequence 
 11 (executive)		0.08349	citizens states laws arising controversies equitable grants nations fourth distinction enumerated justice peace classes claims mischiefs faith foreigners fall involve 
-12 (federalism)		0.15349	senate representatives trust elections number persons house senators election majority choice important votes office society recommend life desirable improper councils 
+12 (government)		0.15349	senate representatives trust elections number persons house senators election majority choice important votes office society recommend life desirable improper councils 
 13 (military)		0.13518	peace military time establishments army armies standing force garrisons troops keeping views provision find confidence man popular happened view formidable 
 14 (taxation)		0.05381	taxation means governments requisitions revenue exigencies necessities admit usurpation supplied limitation evils sums revenues treasury avarice dangers loans evidence turn 
 15 (taxation)		0.1756	duties clause imports tax taxes exports exclusive article authorities lay laid taxation case section exercise sovereignty restriction declares concurrent repugnancy 
