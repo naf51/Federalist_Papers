@@ -2,15 +2,6 @@ body {
 background-color: #FFFAF0;
 }
 
-h1 {
-    color: black;
-    text-align: left;
-    padding-left: 10px;
-    font-family: "American Typewriter";
-    font-size: 40px;
-    font-weight: normal;
-}
-
 h2 {
     font-family: "courier";
     text-align: center;
@@ -24,7 +15,11 @@ p {
 /* Text Box */
 .textbox {
      border: 3px solid black;
-     background-color: lightgray;
+     background-color: #04AA6D;
+     text-align: left;
+     margin-left: 350px;
+     margin-right: 40px;
+     padding: 10px;
 }
 
 /* Header */ 
@@ -36,16 +31,19 @@ p {
 
 /* Menu */  
 .vertical-menu {
-  background-color: #04AA6D;
-  font-family: "American Typewriter";
+  width: 160px;
   float: left;
   
 }
 
 .vertical-menu a {
-
-  border: 1px solid black;
+  display: block;
+  background-color: #04AA6D;
+  font-family: "American Typewriter";
+  font-size: 20px;
+  border: 2px solid black;
   text-decoration: none; 
+  padding: 8px;
 }
 
 .vertical-menu a:hover {
