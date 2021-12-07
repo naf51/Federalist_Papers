@@ -1,5 +1,4 @@
 body {
-display: flex;
 background-color: #FFFAF0;
 }
 
@@ -24,17 +23,12 @@ p {
 
 /* Text Box */
 .textbox {
-     display: flex;
-     flex-direction: row;
      border: 3px solid black;
      background-color: lightgray;
 }
 
 /* Header */ 
 .header {
-    display: flex;
-    flex-direction: row;
-    order: 1;
     font-family: "American Typewriter";
     color: black;
     font-size: 40px;
@@ -43,9 +37,8 @@ p {
 /* Menu */  
 .vertical-menu {
   background-color: #04AA6D;
-  display: flex;
-  flex-direction: column;
   font-family: "American Typewriter";
+  float: left;
   
 }
 
@@ -64,16 +57,6 @@ p {
   color: white;
 }
 
-.flex-container {
-   display: flex;
-   order: 2;
-   flex-direction: column;
-   justify-content: flex-end;
-   flex-wrap: wrap;
-   align-items: center;
-   align-content: flex-start;
-   gap: 15px;
-}
 
 
 
