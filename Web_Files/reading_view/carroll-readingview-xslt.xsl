@@ -42,7 +42,7 @@
         <h2><span class="subtitle"><xsl:apply-templates/></span></h2>
     </xsl:template>
     <xsl:template match="head/source">
-        <h3><span classe="source"><xsl:apply-templates/></span></h3>
+        <h3><span class="source"><xsl:apply-templates/></span></h3>
     </xsl:template>
     <xsl:template match="head/author">
         <h3><span class="author"><xsl:apply-templates/></span></h3>
