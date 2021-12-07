@@ -12,19 +12,7 @@
                 <link rel="stylesheet" type="text/css" href="Federalist-readerview.css"/>
             </head>
             <body>
-                <h1>
-                    Title: <xsl:apply-templates select="//title"/>
-                </h1>
-                <h2>
-                    Subtitle: <xsl:apply-templates select="//subtitle"/>
-                </h2>
-                <h3>
-                    Source: <xsl:apply-templates select="//source"/>
-                </h3>
-                <h4>
-                    Author: <xsl:apply-templates select="//author"/>
-                </h4>
-                <xsl:apply-templates select="//body"/>
+                <xsl:apply-templates select="//federalist_papers"/>
             </body>
         </html>
     </xsl:template>
@@ -46,6 +34,18 @@
         <span class="{name()}" about="{@type}">
             <xsl:apply-templates/>
         </span>
+    </xsl:template>
+    <xsl:template match="head/title">
+        <h1><section type="title"><xsl:apply-templates/></section></h1>
+    </xsl:template>
+    <xsl:template match="head/subtitle">
+        <h2><section type="subtitle"><xsl:apply-templates/></section></h2>
+    </xsl:template>
+    <xsl:template match="head/source">
+        <h3><section type="source"><xsl:apply-templates/></section></h3>
+    </xsl:template>
+    <xsl:template match="head/author">
+            <h3><section type="author"><xsl:apply-templates/></section></h3>
     </xsl:template>
     <xsl:template match="p">
         <xsl:apply-templates/>
