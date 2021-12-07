@@ -36,19 +36,22 @@
         </span>
     </xsl:template>
     <xsl:template match="head/title">
-        <h1><section type="title"><xsl:apply-templates/></section></h1>
+        <h1><span class="title"><xsl:apply-templates/></span></h1>
     </xsl:template>
     <xsl:template match="head/subtitle">
-        <h2><section type="subtitle"><xsl:apply-templates/></section></h2>
+        <h2><span class="subtitle"><xsl:apply-templates/></span></h2>
     </xsl:template>
     <xsl:template match="head/source">
-        <h3><section type="source"><xsl:apply-templates/></section></h3>
+        <h3><span classe="source"><xsl:apply-templates/></span></h3>
     </xsl:template>
     <xsl:template match="head/author">
-            <h3><section type="author"><xsl:apply-templates/></section></h3>
+        <h3><span class="author"><xsl:apply-templates/></span></h3>
+    </xsl:template>
+    <xsl:template match="head/date">
+        <h3><span class="date"><xsl:apply-templates/></span></h3>
     </xsl:template>
     <xsl:template match="p">
-        <xsl:apply-templates/>
+        <span class="p"><xsl:apply-templates/></span>
         <br/>
         <xsl:text>&#xa;</xsl:text>
         <br/>
