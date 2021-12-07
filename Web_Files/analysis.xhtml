@@ -2,54 +2,64 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Federalist Papers: An Analysis</title>
-        <link rel="stylesheet" type="text/css" href="Federalist-html.css"/>
+        <link rel="stylesheet" type="text/css" href="Federalist-html.css" />
     </head>
     <body>
-        <div class="header">The Federalist Papers: An Analysis</div>
+        <!--#include virtual="header.xhtml"-->
         <div class="vertical-menu">
-            <!-- #include virtual="menu.xhtml" -->    
+            <!--#include virtual="menu.xhtml"-->
         </div>
-        <div class="body">
+        <div class="flex-container">
             <div class="textbox">
                 <h2>Analysis</h2>
-            <p>Overall, the Federalist Papers are an interesting collection of documents because of
-                its density but also its reach to various topics of government and politics. These
-                documents could be analyzed in numerous ways. For instance, network analysis would
-                be a very useful tool to see connections to specific themes and topics. However, for
-                this project, we decided to use MALLET and topic-modeling as our primary method to
-                analyse these documents in order to help answer our research question.</p>
+                <p>Overall, the Federalist Papers are an interesting collection of documents because
+                    of its density but also its reach to various topics of government and politics.
+                    These documents could be analyzed in numerous ways. For instance, network
+                    analysis would be a very useful tool to see connections to specific themes and
+                    topics. However, for this project, we decided to use MALLET and topic-modeling
+                    as our primary method to analyse these documents in order to help answer our
+                    research question.</p>
             </div>
             <div class="textbox">
-            <h2>Our Methods:</h2>
-            <p>We chose approximately half of the papers chosen by Hamilton and chose them on the
-                basis of content. Many of his papers were additions to a certain topic. So, to have
-                the ability to use all topics, some were taken out for the sake of time. We
-                identified thirteen element tags that specified the topic of content. These were
-                features of government like the judiciary, executive, military, taxation, etc.
-                Within those elements were four attributes: "elitist", "populist", "both", and
-                "neither". These indicate the tone and type of statement/belief Hamilton possesses
-                within a certain element. This combination is a way to track and analyze his views
-                and opinions on certain aspects of government. We created our markup in XML,
-                validated the papers via a RelaxNG schema, and used MALLET for topic-modeling, which
-                would provide a visual of the content within the papers that was vital towards the
-                comparison.</p>
+                <h2>Our Methods:</h2>
+                <p>We chose approximately half of the papers chosen by Hamilton and chose them on
+                    the basis of content. Many of his papers were additions to a certain topic. So,
+                    to have the ability to use all topics, some were taken out for the sake of time.
+                    We identified thirteen element tags that specified the topic of content. These
+                    were features of government like the judiciary, executive, military, taxation,
+                    etc. Within those elements were four attributes: "elitist", "populist", "both",
+                    and "neither". These indicate the tone and type of statement/belief Hamilton
+                    possesses within a certain element. This combination is a way to track and
+                    analyze his views and opinions on certain aspects of government. We created our
+                    markup in XML, validated the papers via a RelaxNG schema, and used MALLET for
+                    topic-modeling, which would provide a visual of the content within the papers
+                    that was vital towards the comparison.</p>
             </div>
             <div class="textbox">
-            <h2>Our Sources:</h2>
-            <p>We used a variety of sources for the research and analysis of this project. We found
-                an XML document of all 85 Federalist Papers from Github. Specifically, the
-                federalist-bookworm: https://github.com/bmschmidt/federalist-bookworm. We narrowed
-                our markup documents by utilizing the Library of Congress online resource/database
-                of the Federalist Papers, which show the author and provide a small summary of each
-                paper. From there, we marked up the 24 papers we chose with the elements and
-                attributes created, along with changing the metadata and the root element. Next, we
-                created an RelaxNG Schema and conducted a batch validation across all 24 papers.</p>
-            <p>We used governmental resources such as the Library of Congress's website that
-                displays the corpus of documents to indicate which of the three founding father's
-                wrote which paper. Because they all wrote under the pen name "Publius", latin
-                meaning "the people", it would have been virtually impossible to know who wrote each
-                paper. This was vital for our selection of documents for our analysis.</p>
+                <h2>Our Sources:</h2>
+                <p>We used a variety of sources for the research and analysis of this project. We
+                    found an XML document of all 85 Federalist Papers from Github. Specifically, the
+                    federalist-bookworm: https://github.com/bmschmidt/federalist-bookworm. We
+                    narrowed our markup documents by utilizing the Library of Congress online
+                    resource/database of the Federalist Papers, which show the author and provide a
+                    small summary of each paper. From there, we marked up the 24 papers we chose
+                    with the elements and attributes created, along with changing the metadata and
+                    the root element. Next, we created an RelaxNG Schema and conducted a batch
+                    validation across all 24 papers.</p>
+                <p>We used governmental resources such as the Library of Congress's website that
+                    displays the corpus of documents to indicate which of the three founding
+                    father's wrote which paper. Because they all wrote under the pen name "Publius",
+                    latin meaning "the people", it would have been virtually impossible to know who
+                    wrote each paper. This was vital for our selection of documents for our
+                    analysis.</p>
             </div>
         </div>
+        <footer>
+            <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img
+                    alt="Creative Commons License" style="border-width:0"
+                    src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work
+            is licensed under a <a rel="license"
+                href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons
+                Attribution-NonCommercial 4.0 International License</a>. </footer>
     </body>
 </html>
