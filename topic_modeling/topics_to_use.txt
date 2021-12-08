@@ -1,0 +1,7 @@
+0 (populist)		0.54571	government situation number country long interests large spirit support experience weight establishment america resources extensive political doubt safety individuals human
+5 (government)		0.37925	legislative executive case body propriety period improper judges apt negative magistrate good give exercise proceed bad eligible defense provision receive
+7 (legislative)		0.09971	rights expense bill liberty persons representatives congress constitution press bills clause additional section business information distance number extra declaration granted
+13 (military)		0.13518	peace military time establishments army armies standing force garrisons troops keeping views provision find confidence man popular happened view formidable
+15 (taxation)		0.1756	duties clause imports tax taxes exports exclusive article authorities lay laid taxation case section exercise sovereignty restriction declares concurrent repugnancy
+17 (executive)		0.17895	president governor king britain office york magistrate appointment chief officers single united executive punishment power treason impeachment treaties liable actual
+19 (judicial)		0.13975	cases jury trial courts jurisdiction law court mode state equity plan proper case admiralty cognizance juries judiciary judicial convention criminal
