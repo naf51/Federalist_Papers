@@ -1,7 +1,21 @@
-body {background-color: beige;}
+body {
+    background-color: #FFFAF0;
+    font-family: Monaco;
+}
+
+span.title,
+.subtitle,
+.source,
+.author,
+.address {
+    font-family: "American Typewriter";
+    font-weight: normal;
+}
+
+
 
 span.address {
-   font-style: italic
+    font-style: italic
 }
 
 span.federalism {
@@ -20,16 +34,16 @@ span.closing {
     font-style: italic;
 }
 
-span[about=elitist] {
+span[about = elitist] {
     font-weight: 600;
 }
 
-span[about=populist] {
+span[about = populist] {
     text-decoration: underline;
 }
 
-span[about=both] {
-    font-weight:600;
+span[about = both] {
+    font-weight: 600;
     text-decoration: underline;
 }
 
