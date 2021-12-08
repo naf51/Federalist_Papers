@@ -1,0 +1,8 @@
+This graph shows the frequency of the MALLET generated topic that we have associated with military throughout each Federalist Paper that we examined. The key words that
+make up this topic are:
+
+peace military time establishments army armies standing force garrisons troops keeping views provision find confidence man popular happened view formidable
+
+Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, military, is seen much
+more frequently in some papers than others, such as Federalist Papers 24 and 26, which show topic relevances of just over 40% and just under 30%, respectively, which are both
+considered to be pretty significant.
