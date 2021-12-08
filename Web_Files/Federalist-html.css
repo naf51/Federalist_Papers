@@ -6,10 +6,19 @@ h2 {
     font-family: "courier";
     text-align: center;
     font-weight: normal;
+    font-size: 30px;
+    color: #FFFAF0;
 }
 
 p {
-    font-family: "American Typewriter";      
+    font-family: "Monaco";      
+}
+
+h1 {
+    font-family: "American Typewriter";
+    color: black;
+    font-size: 40px;
+    font-weight: normal;
 }
 
 /* Text Box */
@@ -20,6 +29,9 @@ p {
      margin-left: 350px;
      margin-right: 40px;
      padding: 10px;
+     padding-top: 0px;
+     margin-bottom: 25px;
+     margin-top: 15px;
 }
 
 /* Header */ 
@@ -27,6 +39,7 @@ p {
     font-family: "American Typewriter";
     color: black;
     font-size: 40px;
+    font-weight: normal;
 }
 
 /* Menu */  
@@ -38,12 +51,14 @@ p {
 
 .vertical-menu a {
   display: block;
+  color: #FFFAF0;
   background-color: #04AA6D;
   font-family: "American Typewriter";
   font-size: 20px;
   border: 2px solid black;
   text-decoration: none; 
   padding: 8px;
+  margin-top: 5px;
 }
 
 .vertical-menu a:hover {
@@ -54,7 +69,6 @@ p {
   background-color: #04AA6D;
   color: white;
 }
-
 
 
 
