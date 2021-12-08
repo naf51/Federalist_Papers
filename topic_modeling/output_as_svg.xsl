@@ -3,7 +3,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/2000/svg"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
     version="3.0">
-    <xsl:output method="xml" indent="yes"/>
+    <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
+    
     
     
     
@@ -32,11 +33,11 @@
             <text x="65" y="450" fill="gray">70%</text>
             <text x="65" y="400" fill="gray">80%</text>
             <text x="65" y="350" fill="gray">90%</text>
-            <text x="65" y="300" fill="gray">100%</text>
+            <text x="60" y="300" fill="gray">100%</text>
             
-            <text x="600" y="250" fill="black">Topic 1: Populism</text>
-            <text x="600" y="850" fill="black">Federalist Paper</text>
-            <text x="30" y="500" fill="black" writing-mode="tb">Topic Relevance</text>
+            <text x="600" y="250" fill="black" font-size="30">Populism</text>
+            <text x="600" y="850" fill="black" font-size="20">Federalist Paper</text>
+            <text x="30" y="500" fill="black" writing-mode="tb" font-size="20">Topic Relevance</text>
             
             
             
@@ -46,8 +47,8 @@
                 <xsl:variable name="height" as="xs:double" select="$percent * 5"></xsl:variable>
                 <xsl:variable name="placement" as="xs:double" select="160 + (data[1] * 50)"></xsl:variable>
                 <xsl:variable name="y-placement" as="xs:double" select="800 - $height"></xsl:variable>
-                <rect width="40" height="{$height}" fill="blue" stroke="black" stroke-width="1" x="{$placement}" y="{$y-placement}"></rect>
-                <text x="{$placement}" y="820" fill="blue"><xsl:value-of select="data[2]"></xsl:value-of></text>
+                <rect width="40" height="{$height}" fill="blue" stroke="black" stroke-width="1" x="{$placement}" y="{$y-placement}"/>
+                <text x="{$placement + 10}" y="820" fill="blue"><xsl:value-of select="data[2]"></xsl:value-of></text>
                 
             </xsl:for-each>
             
