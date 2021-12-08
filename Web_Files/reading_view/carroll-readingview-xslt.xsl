@@ -13,11 +13,11 @@
                 <link rel="stylesheet" type="text/css" href="Federalist-readerview.css"/>
             </head>
             <body>
-                <h1>The Federalist Papers</h1>
-                <h2>Contents</h2>
-                <ul>
+                <h1><span class="webTitle"/>The Federalist Papers</h1>
+                <h2><span class="tocTitle">Contents</span></h2>
+                <div class="toc"><ul>
                     <xsl:apply-templates select="//head" mode="toc"/>
-                </ul>
+                </ul></div>
                 <hr/>
                 <xsl:apply-templates select="//federalist_papers"/>
             </body>
