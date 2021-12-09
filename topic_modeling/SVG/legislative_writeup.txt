@@ -1,0 +1,7 @@
+This graph shows the frequency of the MALLET generated topic that we have associated with legislature throughout each Federalist Paper that we examined. The key words that
+make up this topic are:
+
+rights expense bill liberty persons representatives congress constitution press bills clause additional section business information distance number extra declaration granted
+
+Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, legislature, is seen
+much more frequently in some papers than others, such as Federalist Paper 84, which shows a topic relevance of over 30%, which is pretty significant.
