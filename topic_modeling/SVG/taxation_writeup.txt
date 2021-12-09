@@ -1,0 +1,7 @@
+This graph shows the frequency of the MALLET generated topic that we have associated with taxation throughout each Federalist Paper that we examined. The key words that
+make up this topic are:
+
+duties clause imports tax taxes exports exclusive article authorities lay laid taxation case section exercise sovereignty restriction declares concurrent repugnancy
+
+Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, taxation, is seen much
+more frequently in some papers than others, such as Federalist Paper 32, which shows a topic relevance of almost 60%, which is extremely significant.
