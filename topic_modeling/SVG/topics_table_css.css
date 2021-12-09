@@ -1,3 +1,10 @@
 th, td {
     padding: 15px;
+    font-family: "Georgia";
+    color: #FFFAF0;
+}
+
+.caption {
+    font-family: "Georgia";
+    color: #FFFAF0;
 }

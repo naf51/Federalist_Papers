@@ -16,8 +16,8 @@ p {
 }
 
 h1 {
-    font-family: "American Typewriter";
-    color: black;
+    font-family: "courier";
+    color: #FFFAF0;
     font-size: 40px;
     font-weight: normal;
 }
@@ -37,7 +37,7 @@ h1 {
 
 /* Header */ 
 .header {
-    font-family: "American Typewriter";
+    font-family: "courier";
     color: black;
     font-size: 40px;
     font-weight: normal;
@@ -71,5 +71,17 @@ h1 {
   color: white;
 }
 
+.caption {
+    font-family: Georgia;
+    color: #FFFAF0;
+}
+
+.img {
+   margin-left:auto;
+   margin-right:auto;
+   border-radius: 8px;
+   border: 2px solid black;
+   max-width: 400px;
+}
 
 

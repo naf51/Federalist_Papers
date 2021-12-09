@@ -3,122 +3,162 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Topic Modeling</title>
-        <link rel="stylesheet" href="topics_table_css.css"/>
+        <link rel="stylesheet" href="topics_table_css.css" />
+        <link rel="stylesheet" type="text/css" href="Federalist-html.css" />
     </head>
     <body>
-        <h1>Topic Modeling with MALLET</h1>
-        <table border="1">
-            <caption>MALLET Topics</caption>
-            <tr>
-                <th>Topic</th>
-                <th>Key Words</th>
-            </tr>
-            <tr>
-                <td>Populism</td>
-                <td>government situation number country long interests large spirit support experience weight establishment america resources extensive political doubt safety individuals human</td>
-            </tr>
-            <tr>
-                <td>Government</td>
-                <td>legislative executive case body propriety period improper judges apt negative magistrate good give exercise proceed bad eligible defense provision receive</td>
-            </tr>
-            <tr>
-                <td>Legislative</td>
-                <td>rights expense bill liberty persons representatives congress constitution press bills clause additional section business information distance number extra declaration granted</td>
-            </tr>
-            <tr>
-                <td>Military</td>
-                <td>peace military time establishments army armies standing force garrisons troops keeping views provision find confidence man popular happened view formidable</td>
-            </tr>
-            <tr>
-                <td>Taxation</td>
-                <td>duties clause imports tax taxes exports exclusive article authorities lay laid taxation case section exercise sovereignty restriction declares concurrent repugnancy</td>
-            </tr>
-            <tr>
-                <td>Executive</td>
-                <td>president governor king britain office york magistrate appointment chief officers single united executive punishment power treason impeachment treaties liable actual</td>
-            </tr>
-            <tr>
-                <td>Judicial</td>
-                <td>cases jury trial courts jurisdiction law court mode state equity plan proper case admiralty cognizance juries judiciary judicial convention criminal</td>
-            </tr>
-        </table>
-        <hr/>
-        <!--#include virtual="SVG/populist.svg"-->
-        <p>
-            This graph shows the frequency of the MALLET generated topic that we have associated with Populist views throughout each Federalist Paper that we examined. The key words that
-            make up this topic are:
-            <br/><br/>
-            government situation number country long interests large spirit support experience weight establishment america resources extensive political doubt safety individuals human
-            <br/><br/>
-            Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, populism, is seen much
-            more frequently in some papers than others, such as Federalist Papers 11 and 12, which both show a topic relevance of almost 20%, which is pretty significant.
-        </p>
-        <hr/>
-        <!--#include virtual="SVG/government.svg"-->
-        <p>
-            This graph shows the frequency of the MALLET generated topic that we have associated with government throughout each Federalist Paper that we examined. The key words that
-            make up this topic are:
-            <br/><br/>
-            legislative executive case body propriety period improper judges apt negative magistrate good give exercise proceed bad eligible defense provision receive
-            <br/><br/>
-            Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, government, is seen
-            much more frequently in some papers than others, such as Federalist Paper 73, which shows a topic relevance of over 40%, which is extremely significant.
-        </p>
-        <hr/>
-        <!--#include virtual="SVG/legislative.svg"-->
-        <p>
-            This graph shows the frequency of the MALLET generated topic that we have associated with legislature throughout each Federalist Paper that we examined. The key words that
-            make up this topic are:
-            <br/><br/>
-            rights expense bill liberty persons representatives congress constitution press bills clause additional section business information distance number extra declaration granted
-            <br/><br/>
-            Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, legislature, is seen
-            much more frequently in some papers than others, such as Federalist Paper 84, which shows a topic relevance of over 30%, which is pretty significant.
-        </p>
-        <hr/>
-        <!--#include virtual="SVG/military.svg"-->
-        <p>
-            This graph shows the frequency of the MALLET generated topic that we have associated with military throughout each Federalist Paper that we examined. The key words that
-            make up this topic are:
-            <br/><br/>
-            peace military time establishments army armies standing force garrisons troops keeping views provision find confidence man popular happened view formidable
-            <br/><br/>
-            Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, military, is seen much
-            more frequently in some papers than others, such as Federalist Papers 24 and 26, which show topic relevances of just over 40% and just under 30%, respectively, which are both
-            considered to be pretty significant.
-        </p>
-        <hr/>
-        <!--#include virtual="SVG/taxation.svg"-->
-        <p>
-            This graph shows the frequency of the MALLET generated topic that we have associated with taxation throughout each Federalist Paper that we examined. The key words that
-            make up this topic are:
-            <br/><br/>
-            duties clause imports tax taxes exports exclusive article authorities lay laid taxation case section exercise sovereignty restriction declares concurrent repugnancy
-            <br/><br/>
-            Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, taxation, is seen much
-            more frequently in some papers than others, such as Federalist Paper 32, which shows a topic relevance of almost 60%, which is extremely significant.
-        </p>
-        <hr/>
-        <!--#include virtual="SVG/executive.svg"-->
-        <p>
-            This graph shows the frequency of the MALLET generated topic that we have associated with the Executive Branch throughout each Federalist Paper that we examined. The key words
-            that make up this topic are:
-            <br/><br/>
-            president governor king britain office york magistrate appointment chief officers single united executive punishment power treason impeachment treaties liable actual
-            <br/><br/>
-            Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, the Executive Branch, 
-            is seen much more frequently in some papers than others, such as Federalist Paper 69, which shows a topic relevance of over 50%, which is extremely significant.
-        </p>
-        <hr/>
-        <!--#include virtual="SVG/judicial.svg"-->
-        <p>
-            This graph shows the frequency of the MALLET generated topic that we have associated with the Judicial System throughout each Federalist Paper that we examined. The key words
-            that make up this topic are:
-            <br/><br/>
-            cases jury trial courts jurisdiction law court mode state equity plan proper case admiralty cognizance juries judiciary judicial convention criminal
-            <br/><br/>
-            Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, the Judicial System, 
-            is seen much more frequently in some papers than others, such as Federalist Paper 83, which both show a topic relevance of over 40%, which is pretty significant.
-        </p>
+        <!--#include virtual="header.xhtml"-->
+        <!--#include virtual="menu.xhtml"-->
+        <div class="content">
+            <div class="textbox">
+                <h1>Topic Modeling with MALLET</h1>
+                <table border="1">
+                    <caption>MALLET Topics</caption>
+                    <tr>
+                        <th>Topic</th>
+                        <th>Key Words</th>
+                    </tr>
+                    <tr>
+                        <td>Populism</td>
+                        <td>government situation number country long interests large spirit support
+                            experience weight establishment america resources extensive political
+                            doubt safety individuals human</td>
+                    </tr>
+                    <tr>
+                        <td>Government</td>
+                        <td>legislative executive case body propriety period improper judges apt
+                            negative magistrate good give exercise proceed bad eligible defense
+                            provision receive</td>
+                    </tr>
+                    <tr>
+                        <td>Legislative</td>
+                        <td>rights expense bill liberty persons representatives congress
+                            constitution press bills clause additional section business information
+                            distance number extra declaration granted</td>
+                    </tr>
+                    <tr>
+                        <td>Military</td>
+                        <td>peace military time establishments army armies standing force garrisons
+                            troops keeping views provision find confidence man popular happened view
+                            formidable</td>
+                    </tr>
+                    <tr>
+                        <td>Taxation</td>
+                        <td>duties clause imports tax taxes exports exclusive article authorities
+                            lay laid taxation case section exercise sovereignty restriction declares
+                            concurrent repugnancy</td>
+                    </tr>
+                    <tr>
+                        <td>Executive</td>
+                        <td>president governor king britain office york magistrate appointment chief
+                            officers single united executive punishment power treason impeachment
+                            treaties liable actual</td>
+                    </tr>
+                    <tr>
+                        <td>Judicial</td>
+                        <td>cases jury trial courts jurisdiction law court mode state equity plan
+                            proper case admiralty cognizance juries judiciary judicial convention
+                            criminal</td>
+                    </tr>
+                </table>
+                <hr />
+            </div>
+            <div class="textbox">
+                <!--#include virtual="SVG/populist.svg"-->
+                <p> This graph shows the frequency of the MALLET generated topic that we have
+                    associated with Populist views throughout each Federalist Paper that we
+                    examined. The key words that make up this topic are: <br /><br /> government
+                    situation number country long interests large spirit support experience weight
+                    establishment america resources extensive political doubt safety individuals
+                    human <br /><br /> Each bar on the graph represents the the frequency in the
+                    given paper that words from this specific topic appear together. You will see
+                    that this topic, populism, is seen much more frequently in some papers than
+                    others, such as Federalist Papers 11 and 12, which both show a topic relevance
+                    of almost 20%, which is pretty significant. </p>
+                <hr />
+            </div>
+            <div class="textbox">
+                <!--#include virtual="SVG/government.svg"-->
+                <p> This graph shows the frequency of the MALLET generated topic that we have
+                    associated with government throughout each Federalist Paper that we examined.
+                    The key words that make up this topic are: <br /><br /> legislative executive
+                    case body propriety period improper judges apt negative magistrate good give
+                    exercise proceed bad eligible defense provision receive <br /><br /> Each bar on
+                    the graph represents the the frequency in the given paper that words from this
+                    specific topic appear together. You will see that this topic, government, is
+                    seen much more frequently in some papers than others, such as Federalist Paper
+                    73, which shows a topic relevance of over 40%, which is extremely significant. </p>
+                <hr />
+            </div>
+            <div class="textbox">
+                <!--#include virtual="SVG/legislative.svg"-->
+                <p> This graph shows the frequency of the MALLET generated topic that we have
+                    associated with legislature throughout each Federalist Paper that we examined.
+                    The key words that make up this topic are: <br /><br /> rights expense bill
+                    liberty persons representatives congress constitution press bills clause
+                    additional section business information distance number extra declaration
+                    granted <br /><br /> Each bar on the graph represents the the frequency in the
+                    given paper that words from this specific topic appear together. You will see
+                    that this topic, legislature, is seen much more frequently in some papers than
+                    others, such as Federalist Paper 84, which shows a topic relevance of over 30%,
+                    which is pretty significant. </p>
+                <hr />
+            </div>
+            <div class="textbox">
+                <!--#include virtual="SVG/military.svg"-->
+                <p> This graph shows the frequency of the MALLET generated topic that we have
+                    associated with military throughout each Federalist Paper that we examined. The
+                    key words that make up this topic are: <br /><br /> peace military time
+                    establishments army armies standing force garrisons troops keeping views
+                    provision find confidence man popular happened view formidable <br /><br /> Each
+                    bar on the graph represents the the frequency in the given paper that words from
+                    this specific topic appear together. You will see that this topic, military, is
+                    seen much more frequently in some papers than others, such as Federalist Papers
+                    24 and 26, which show topic relevances of just over 40% and just under 30%,
+                    respectively, which are both considered to be pretty significant. </p>
+                <hr />
+            </div>
+            <div class="textbox">
+                <!--#include virtual="SVG/taxation.svg"-->
+                <p> This graph shows the frequency of the MALLET generated topic that we have
+                    associated with taxation throughout each Federalist Paper that we examined. The
+                    key words that make up this topic are: <br /><br /> duties clause imports tax
+                    taxes exports exclusive article authorities lay laid taxation case section
+                    exercise sovereignty restriction declares concurrent repugnancy <br /><br />
+                    Each bar on the graph represents the the frequency in the given paper that words
+                    from this specific topic appear together. You will see that this topic,
+                    taxation, is seen much more frequently in some papers than others, such as
+                    Federalist Paper 32, which shows a topic relevance of almost 60%, which is
+                    extremely significant. </p>
+                <hr />
+            </div>
+            <div class="textbox">
+                <!--#include virtual="SVG/executive.svg"-->
+                <p> This graph shows the frequency of the MALLET generated topic that we have
+                    associated with the Executive Branch throughout each Federalist Paper that we
+                    examined. The key words that make up this topic are: <br /><br /> president
+                    governor king britain office york magistrate appointment chief officers single
+                    united executive punishment power treason impeachment treaties liable actual
+                    <br /><br /> Each bar on the graph represents the the frequency in the given
+                    paper that words from this specific topic appear together. You will see that
+                    this topic, the Executive Branch, is seen much more frequently in some papers
+                    than others, such as Federalist Paper 69, which shows a topic relevance of over
+                    50%, which is extremely significant. </p>
+                <hr />
+            </div>
+            <div class="textbox">
+                <!--#include virtual="SVG/judicial.svg"-->
+                <p> This graph shows the frequency of the MALLET generated topic that we have
+                    associated with the Judicial System throughout each Federalist Paper that we
+                    examined. The key words that make up this topic are: <br /><br /> cases jury
+                    trial courts jurisdiction law court mode state equity plan proper case admiralty
+                    cognizance juries judiciary judicial convention criminal <br /><br /> Each bar
+                    on the graph represents the the frequency in the given paper that words from
+                    this specific topic appear together. You will see that this topic, the Judicial
+                    System, is seen much more frequently in some papers than others, such as
+                    Federalist Paper 83, which both show a topic relevance of over 40%, which is
+                    pretty significant. </p>
+            </div>
+        </div>
     </body>
 </html>
