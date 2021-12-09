@@ -4,5 +4,5 @@ make up this topic are:
 legislative executive case body propriety period improper judges apt negative magistrate good give exercise proceed bad eligible defense provision receive
 
 Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, government, is seen
-much more frequently in some papers than others, such as Federalist Paper 73, which shows a topic relevance of over 40%, which is extremely significant.
+much more frequently in some papers than others, such as Federalist Paper 73, which shows a topic relevance of over 40%, which is extremely significant. The data aligns with the content of the Federalist Papers. Even though it seems that government is too broad and that everything could be under the topic "government", some papers concerned the actual composition of government, which is what his reflects. Papers 73, 74, and 79, dealt with the powers of the executive and judicial branches. This also shows why other papers did not show such high figures. For example, 83, which concerned the right to a trial by jury. Although this involves the judicial branch, the content dealt more with the right itself, and its powers on society. So, context and content of the papers is also something that we considered when completing our markup. 
 

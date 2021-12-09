@@ -4,4 +4,4 @@ make up this topic are:
 duties clause imports tax taxes exports exclusive article authorities lay laid taxation case section exercise sovereignty restriction declares concurrent repugnancy
 
 Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, taxation, is seen much
-more frequently in some papers than others, such as Federalist Paper 32, which shows a topic relevance of almost 60%, which is extremely significant.
+more frequently in some papers than others, such as Federalist Paper 32, which shows a topic relevance of almost 60%, which is extremely significant. Looking at the key words, they are commonly used to describe the economy and taxation. Papers 30 - 32 dealt with these topics. It is logical to not see any relevance to these key words in the later papers, for instance 69 - 85, since they primarily concern the executive and judicial branches and their powers / responsibilities. 

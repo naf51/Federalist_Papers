@@ -4,4 +4,4 @@ make up this topic are:
 rights expense bill liberty persons representatives congress constitution press bills clause additional section business information distance number extra declaration granted
 
 Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, legislature, is seen
-much more frequently in some papers than others, such as Federalist Paper 84, which shows a topic relevance of over 30%, which is pretty significant.
+much more frequently in some papers than others, such as Federalist Paper 84, which shows a topic relevance of over 30%, which is pretty significant. This graph and the topics that comprised it show a clear correlation to the content of the Federalist Papers. Paper 84 is well-known as being controversial because Hamilton states that he does not believe that a Bill of Rights should be granted to citizens. This is certainly not a populist idea, but the rhetoric of 84 involves much of the legislative branch, since it would be responsible for formulating and passing the Bill of Rights. 

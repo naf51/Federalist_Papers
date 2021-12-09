@@ -5,4 +5,4 @@ peace military time establishments army armies standing force garrisons troops k
 
 Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, military, is seen much
 more frequently in some papers than others, such as Federalist Papers 24 and 26, which show topic relevances of just over 40% and just under 30%, respectively, which are both
-considered to be pretty significant.
+considered to be pretty significant. The graph shows the accuracy of the topic modeling. Papers 24, 26, and 29 all concentrated on the military and its role in government.
