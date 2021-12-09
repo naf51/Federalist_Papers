@@ -4,5 +4,5 @@ make up this topic are:
 legislative executive case body propriety period improper judges apt negative magistrate good give exercise proceed bad eligible defense provision receive
 
 Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, government, is seen
-much more frequently in some papers than others, such as Federalist Paper 73, which shows a topic relevance of over 40%, which is extremely significant.
+much more frequently in some papers than others, such as Federalist Paper 73, which shows a topic relevance of over 40%, which is extremely significant. It is clear that the topic "Government" was based on key words such as "legislative, executive, judges, magistrate, body" etc. These words describe the actual composition of government. Papers 73, 74, and 79 all revolved around the executive and judicial branches of government. Within these papers were varied in their political ideologies, specifically, being either populist, elitist, none, or both. 
 
