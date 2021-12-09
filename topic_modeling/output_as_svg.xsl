@@ -30,7 +30,7 @@
             
             <text x="600" y="450" fill="black" font-size="30">Judicial</text>
             <text x="600" y="850" fill="black" font-size="20">Federalist Paper</text>
-            <text x="30" y="500" fill="black" writing-mode="tb" font-size="20">Topic Relevance</text>
+            <text x="30" y="555" fill="black" writing-mode="tb" font-size="20">Topic Relevance</text>
             
             
             
