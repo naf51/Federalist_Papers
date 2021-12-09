@@ -1,0 +1,7 @@
+This graph shows the frequency of the MALLET generated topic that we have associated with Populist views throughout each Federalist Paper that we examined. The key words that
+make up this topic are:
+
+government situation number country long interests large spirit support experience weight establishment america resources extensive political doubt safety individuals human
+
+Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, populism, is seen much
+more frequently in some papers than others, such as Federalist Papers 11 and 12, which both show a topic relevance of almost 20%, which is pretty significant.
