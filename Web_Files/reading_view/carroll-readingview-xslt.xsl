@@ -5,6 +5,7 @@
     version="3.0">
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
+    <xsl:variable name="title" select="//title"/>
     <xsl:template match="/">
         <html>
             <head>
@@ -12,6 +13,12 @@
                 <link rel="stylesheet" type="text/css" href="Federalist-readerview.css"/>
             </head>
             <body>
+                <h1><span class="webTitle">The Federalist Papers</span></h1>
+                <h2><span class="tocTitle">Contents</span></h2>
+                <div class="toc"><ul>
+                    <xsl:apply-templates select="//head" mode="toc"/>
+                </ul></div>
+                <hr/>
                 <xsl:apply-templates select="//federalist_papers"/>
             </body>
         </html>
@@ -35,20 +42,22 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    <xsl:template match="head/title">
-        <h1><span class="title"><xsl:apply-templates/></span></h1>
+    <xsl:template match="head" mode="toc">
+        <li>
+            <a href="#{generate-id()}">
+                <xsl:apply-templates select="title" mode="toc"/>
+                <xsl:text> (</xsl:text>
+                <xsl:apply-templates select="subtitle" mode="toc"/>
+                <xsl:text>)</xsl:text>
+            </a>
+        </li>
     </xsl:template>
-    <xsl:template match="head/subtitle">
-        <h2><span class="subtitle"><xsl:apply-templates/></span></h2>
-    </xsl:template>
-    <xsl:template match="head/source">
-        <h3><span class="source"><xsl:apply-templates/></span></h3>
-    </xsl:template>
-    <xsl:template match="head/author">
-        <h3><span class="author"><xsl:apply-templates/></span></h3>
-    </xsl:template>
-    <xsl:template match="head/date">
-        <h3><span class="date"><xsl:apply-templates/></span></h3>
+    <xsl:template match="head">
+        <h1><span class="title" id="{generate-id()}"><xsl:apply-templates select="title"/></span></h1>
+        <h2><span class="subtitle"><xsl:apply-templates select="subtitle"/></span></h2>
+        <h3><span class="source"><xsl:apply-templates select="source"/></span></h3>
+        <h3><span class="author"><xsl:apply-templates select="author"/></span></h3>
+        <h3><span class="date"><xsl:apply-templates select="date"/></span></h3>
     </xsl:template>
     <xsl:template match="p">
         <span class="p"><xsl:apply-templates/></span>
