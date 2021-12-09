@@ -1,0 +1,7 @@
+This graph shows the frequency of the MALLET generated topic that we have associated with the Judicial System throughout each Federalist Paper that we examined. The key words
+that make up this topic are:
+
+cases jury trial courts jurisdiction law court mode state equity plan proper case admiralty cognizance juries judiciary judicial convention criminal
+
+Each bar on the graph represents the the frequency in the given paper that words from this specific topic appear together. You will see that this topic, the Judicial System, 
+is seen much more frequently in some papers than others, such as Federalist Paper 83, which both show a topic relevance of over 40%, which is pretty significant.
