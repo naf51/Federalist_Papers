@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="1000" width="2000">
+   <line x1="100"
+         y1="800"
+         x2="1500"
+         y2="800"
+         stroke="black"
+         stroke-width="2"/>
+   <line x1="100"
+         y1="800"
+         x2="100"
+         y2="500"
+         stroke="black"
+         stroke-width="2"/>
+   <line x1="100"
+         y1="750"
+         x2="1500"
+         y2="750"
+         stroke="gray"
+         stroke-width="1"/>
+   <line x1="100"
+         y1="700"
+         x2="1500"
+         y2="700"
+         stroke="gray"
+         stroke-width="1"/>
+   <line x1="100"
+         y1="650"
+         x2="1500"
+         y2="650"
+         stroke="gray"
+         stroke-width="1"/>
+   <line x1="100"
+         y1="600"
+         x2="1500"
+         y2="600"
+         stroke="gray"
+         stroke-width="1"/>
+   <line x1="100"
+         y1="550"
+         x2="1500"
+         y2="550"
+         stroke="gray"
+         stroke-width="1"/>
+   <line x1="100"
+         y1="500"
+         x2="1500"
+         y2="500"
+         stroke="gray"
+         stroke-width="1"/>
+   <text x="65" y="800" fill="gray">0%</text>
+   <text x="65" y="750" fill="gray">10%</text>
+   <text x="65" y="700" fill="gray">20%</text>
+   <text x="65" y="650" fill="gray">30%</text>
+   <text x="65" y="600" fill="gray">40%</text>
+   <text x="65" y="550" fill="gray">50%</text>
+   <text x="65" y="500" fill="gray">60%</text>
+   <text x="600" y="450" fill="black" font-size="30">Legislative</text>
+   <text x="600" y="850" fill="black" font-size="20">Federalist Paper</text>
+   <text x="30"
+         y="555"
+         fill="black"
+         writing-mode="tb"
+         font-size="20">Topic Relevance</text>
+   <rect width="40"
+         height="5"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="160"
+         y="795"/>
+   <text x="170" y="820" fill="black">9</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="210"
+         y="800"/>
+   <text x="220" y="820" fill="black">11</text>
+   <rect width="40"
+         height="5"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="260"
+         y="795"/>
+   <text x="270" y="820" fill="black">12</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="310"
+         y="800"/>
+   <text x="320" y="820" fill="black">13</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="360"
+         y="800"/>
+   <text x="370" y="820" fill="black">15</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="410"
+         y="800"/>
+   <text x="420" y="820" fill="black">24</text>
+   <rect width="40"
+         height="10"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="460"
+         y="790"/>
+   <text x="470" y="820" fill="black">26</text>
+   <rect width="40"
+         height="15"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="510"
+         y="785"/>
+   <text x="520" y="820" fill="black">29</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="560"
+         y="800"/>
+   <text x="570" y="820" fill="black">30</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="610"
+         y="800"/>
+   <text x="620" y="820" fill="black">31</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="660"
+         y="800"/>
+   <text x="670" y="820" fill="black">32</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="710"
+         y="800"/>
+   <text x="720" y="820" fill="black">59</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="760"
+         y="800"/>
+   <text x="770" y="820" fill="black">65</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="810"
+         y="800"/>
+   <text x="820" y="820" fill="black">67</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="860"
+         y="800"/>
+   <text x="870" y="820" fill="black">68</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="910"
+         y="800"/>
+   <text x="920" y="820" fill="black">69</text>
+   <rect width="40"
+         height="20"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="960"
+         y="780"/>
+   <text x="970" y="820" fill="black">73</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="1010"
+         y="800"/>
+   <text x="1020" y="820" fill="black">74</text>
+   <rect width="40"
+         height="10"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="1060"
+         y="790"/>
+   <text x="1070" y="820" fill="black">79</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="1110"
+         y="800"/>
+   <text x="1120" y="820" fill="black">80</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="1160"
+         y="800"/>
+   <text x="1170" y="820" fill="black">81</text>
+   <rect width="40"
+         height="0"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="1210"
+         y="800"/>
+   <text x="1220" y="820" fill="black">83</text>
+   <rect width="40"
+         height="170"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="1260"
+         y="630"/>
+   <text x="1270" y="820" fill="black">84</text>
+   <rect width="40"
+         height="5"
+         fill="green"
+         stroke="black"
+         stroke-width="1"
+         x="1310"
+         y="795"/>
+   <text x="1320" y="820" fill="black">85</text>
+</svg>
