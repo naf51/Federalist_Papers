@@ -17,15 +17,15 @@ span.address {
 }
 
 span.federalism {
-    color: blue;
+    color: #6600ff;
 }
 
 span.significantPhrase {
-    color: red;
+    color: #993300;
 }
 
 span.historicalComparison {
-    color: white;
+    color: lightgrey;
 }
 
 span.closing {
@@ -46,19 +46,19 @@ span[about = both] {
 }
 
 span.military {
-    color: purple;
+    color: #ff9966;
 }
 
 span.trade {
-    color: green;
+    color: #cb4c4e;
 }
 
 span.taxation {
-    color: #00ff87;
+    color: #ffdbac;
 }
 
 span.foreignPolicy {
-    color: orange;
+    color: #bfdfbf;
 }
 
 span.liberty {
@@ -74,7 +74,7 @@ span.judicial {
 }
 
 span.legislature {
-    color: yellow;
+    color: #d7d2ff;
 }
 
 span.quote::before {
@@ -91,4 +91,18 @@ span.parenthesis::before {
 
 span.parenthesis::after {
     content: ")"
+}
+
+/* Text Box */
+.textbox {
+     border: 3px solid black;
+     background-color: #04AA6D;
+     text-align: left;
+     margin-left: 350px;
+     margin-right: 40px;
+     padding: 10px;
+     padding-top: 0px;
+     margin-bottom: 25px;
+     margin-top: 15px;
+     color: #FFFAF0;
 }
