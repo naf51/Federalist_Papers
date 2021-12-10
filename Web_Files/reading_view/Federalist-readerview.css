@@ -8,7 +8,7 @@ span.title,
 .source,
 .author,
 .address {
-    font-family: "American Typewriter";
+    font-family: "courier";
     font-weight: normal;
 }
 
@@ -105,4 +105,40 @@ span.parenthesis::after {
      margin-bottom: 25px;
      margin-top: 15px;
      color: #FFFAF0;
+}
+
+/* Header */ 
+.header {
+    font-family: "courier";
+    color: black;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+/* Menu */  
+.vertical-menu {
+  width: 160px;
+  float: left;
+  
+}
+
+.vertical-menu a {
+  display: block;
+  color: #FFFAF0;
+  background-color: #04AA6D;
+  font-family: "courier";
+  font-size: 20px;
+  border: 2px solid black;
+  text-decoration: none; 
+  padding: 8px;
+  margin-top: 5px;
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc;
+}
+
+.vertical-menu a.active {
+  background-color: #04AA6D;
+  color: white;
 }
