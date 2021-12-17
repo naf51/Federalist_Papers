@@ -1,6 +1,6 @@
 body {
     background-color: #FFFAF0;
-    font-family: Monaco;
+    font-family: Georgia;
 }
 
 span.title,
@@ -10,6 +10,10 @@ span.title,
 .address {
     font-family: "courier";
     font-weight: normal;
+}
+
+.span {
+    font-family: Georgia;
 }
 
 span.address {
@@ -110,7 +114,7 @@ span.parenthesis::after {
 /* Header */ 
 .header {
     font-family: "courier";
-    color: black;
+    color: darkgrey;
     font-size: 40px;
     font-weight: normal;
 }

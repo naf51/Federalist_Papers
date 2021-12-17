@@ -1,5 +1,6 @@
 body {
-background-color: #FFFAF0;
+ background-color: #FFFAF0;
+ font-family: Georgia;
 }
 
 h2 {
@@ -10,7 +11,7 @@ h2 {
     color: #FFFAF0;
 }
 
-.img {
+img {
     display: block;
     margin-left:auto;
     margin-right:auto;
@@ -50,6 +51,11 @@ h1 {
     color: black;
     font-size: 40px;
     font-weight: normal;
+    text-align: left;
+}
+
+caption {
+    color: #FFFAF0;
 }
 
 /* Menu */  
@@ -85,5 +91,97 @@ h1 {
     color: #FFFAF0;
 }
 
+span.title,
+.subtitle,
+.source,
+.author,
+.address {
+    font-family: "courier";
+    font-weight: normal;
+}
 
+.span {
+    font-family: Georgia;
+}
+
+span.address {
+    font-style: italic
+}
+
+span.federalism {
+    color: #6600ff;
+}
+
+span.significantPhrase {
+    color: #993300;
+}
+
+span.historicalComparison {
+    color: lightgrey;
+}
+
+span.closing {
+    font-style: italic;
+}
+
+span[about = elitist] {
+    font-weight: 600;
+}
+
+span[about = populist] {
+    text-decoration: underline;
+}
+
+span[about = both] {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+span.military {
+    color: #ff9966;
+}
+
+span.trade {
+    color: #cb4c4e;
+}
+
+span.taxation {
+    color: #ffdbac;
+}
+
+span.foreignPolicy {
+    color: #bfdfbf;
+}
+
+span.liberty {
+    color: cyan;
+}
+
+span.executive {
+    color: brown;
+}
+
+span.judicial {
+    color: #FFC0CB
+}
+
+span.legislature {
+    color: #d7d2ff;
+}
+
+span.quote::before {
+    content: open-quote;
+}
+
+span.quote::after {
+    content: close-quote;
+}
+
+span.parenthesis::before {
+    content: "("
+}
+
+span.parenthesis::after {
+    content: ")"
+}
 
