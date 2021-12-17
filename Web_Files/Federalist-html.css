@@ -185,15 +185,15 @@ span.parenthesis::after {
     content: ")"
 }
 
-a:link {
+a.toc:link {
     color: white;
     background-color: transparent;
     text-decoration: underline;    
 }
-
-a:visited {
+a.toc:visited {
     color: blue;
     background-color: transparent;
     text-decoration: underline;
 }
+
 
