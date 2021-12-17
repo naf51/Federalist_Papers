@@ -196,4 +196,59 @@ a.toc:visited {
     text-decoration: underline;
 }
 
+li.military {
+    color: #ff9966;
+}
 
+li.trade {
+    color: #cb4c4e;
+}
+
+li.taxation {
+    color: #ffdbac;
+}
+
+li.foreignPolicy {
+    color: #bfdfbf;
+}
+
+li.liberty {
+    color: cyan;
+}
+
+li.executive {
+    color: brown;
+}
+
+li.judicial {
+    color: #FFC0CB
+}
+
+li.legislature {
+    color: #d7d2ff;
+}
+
+li.federalism {
+    color: #6600ff;
+}
+
+li.significantPhrase {
+    color: #993300;
+}
+
+li.historicalComparison {
+    color: lightgrey;
+}
+
+li.elitist {
+    font-weight: 600;
+}
+
+li.populist {
+    text-decoration: underline;
+}
+
+li.both {
+    font-weight: 600;
+    text-decoration: underline;
+}
