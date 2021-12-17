@@ -185,3 +185,15 @@ span.parenthesis::after {
     content: ")"
 }
 
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;    
+}
+
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
